@@ -1,5 +1,7 @@
 ---
+title: Inicio
 layout: page
+show_sidebar: true
 ---
 
 ## Bienvenido
