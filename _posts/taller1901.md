@@ -1,3 +1,9 @@
 ---
 layout: post
+title: "Primer taller del Club de Informática"
 ---
+
+# Primer taller del Club de Informática
+
+¡Hola a todos!
+El próximo **sábado 26 de octubre, de 11:30 a 13:00 h.**, queremos invitaros al primer taller del **Club de Informática**, en el que vamos a realizar actividades que responden a una frase que seguramente ya habréis escuchado en alguna ocasión a vuestros hijos…
