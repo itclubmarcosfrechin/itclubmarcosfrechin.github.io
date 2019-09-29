@@ -16,9 +16,9 @@ La actividad presencial del club tendrá una periodicidad mensual, el último s�
 
 Esta iniciativa nace desde varios padres y madres de niñas del cole:
 
-- Beatriz imparte clases de informática y robótica tanto regulares como extraescolares a niños de primaria, así como clases de apoyo para asignaturas de programación de distintas carreras universitarias.
-- Sergio se dedica al desarrollo de software para empresas desde hace casi 20 años, y también ha dado clases de programación a distintos niveles.
-- Daniel es Ingeniero Electrónico y se dedica a…
+- **Beatriz** imparte clases de informática y robótica tanto regulares como extraescolares a niños de primaria, así como clases de apoyo para asignaturas de programación de distintas carreras universitarias.
+- **Sergio** se dedica al desarrollo de software para empresas desde hace casi 20 años, y también ha dado clases de programación a distintos niveles.
+- **Daniel** es Ingeniero Electrónico y se dedica a…
 
 
 
