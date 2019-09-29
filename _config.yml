@@ -23,4 +23,4 @@ defaults:
       type: "pages"
     values:
       show_sidebar: true
-      hero_image: /img/CartelIMG.png
+      hero_image: /img/hero_main.jpg
