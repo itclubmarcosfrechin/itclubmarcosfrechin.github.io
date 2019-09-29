@@ -1,5 +1,5 @@
 ---
-title: Inicio
+title: Club de Informática Marcos Frechín
 layout: page
 show_sidebar: true
 ---
