@@ -15,3 +15,12 @@ plugins:
   - rouge
 
 livereload: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+      hero_image: /img/CartelIMG.png
