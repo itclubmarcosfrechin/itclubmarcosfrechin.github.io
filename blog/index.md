@@ -1,4 +1,4 @@
 ---
 layout: blog
-title: Blog del Club de Informática
+title: "Noticias"
 ---
