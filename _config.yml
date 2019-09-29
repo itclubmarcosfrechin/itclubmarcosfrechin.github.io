@@ -24,3 +24,12 @@ defaults:
     values:
       show_sidebar: true
       hero_image: /img/hero_main2.jpg
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Sergio Castillo"
+      layout: post
+      image: https://via.placeholder.com/1200x800
+      show_sidebar: true
