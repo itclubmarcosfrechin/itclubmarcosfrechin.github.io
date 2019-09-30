@@ -23,7 +23,7 @@ defaults:
       type: "pages"
     values:
       show_sidebar: true
-      hero_image: /img/hero_main2.jpg
+      hero_image: /img/hero_main3_4.jpg
   -
     scope:
       path: ""
