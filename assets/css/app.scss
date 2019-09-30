@@ -3,5 +3,15 @@
 
 $primary: #007FFE;
 
+.title
+{
+    text-shadow: 2px 2px 8px #000000;
+}
+
+.subtitle
+{
+    text-shadow: 2px 2px 8px #000000;
+}
+
 // Import Main CSS file from theme
 @import "main";
