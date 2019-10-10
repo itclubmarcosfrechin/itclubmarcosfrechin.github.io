@@ -21,14 +21,14 @@ defaults:
     scope:
       path: ""
       type: "pages"
-      values:
+    values:
       show_sidebar: true
       hero_image: /img/hero_main3_4.jpg
   -
     scope:
       path: ""
       type: "posts"
-      values:
+    values:
       author: "Sergio Castillo"
       layout: post
       image: https://via.placeholder.com/1200x800
