@@ -16,6 +16,8 @@ plugins:
 
 livereload: true
 
+google_analytics: UA-149878673-1
+
 defaults:
   -
     scope:
