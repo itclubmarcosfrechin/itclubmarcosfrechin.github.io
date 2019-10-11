@@ -1,6 +1,6 @@
 #Site settings
 title: Club de Informática Marcos Frechín
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: kash0321/bulma-clean-theme
 permalink: pretty
 
 paginate: 5
