@@ -29,11 +29,19 @@ $primary: #007FFE;
     padding-bottom:20px;
     width:100%;
     text-align:center;
-    min-height:100px;
+    min-height: 40px;
     background-color: $primary;
     color:#fff;
     z-index:99999;
 }
+
+@media (max-width: 600px) {
+    #barraaceptacion {
+        min-height: 150px;
+    }
+  }
+}
+
  
 .inner {
     width:100%;
