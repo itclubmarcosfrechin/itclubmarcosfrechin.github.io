@@ -29,7 +29,7 @@ $primary: #007FFE;
     padding-bottom:20px;
     width:100%;
     text-align:center;
-    min-height:80px;
+    min-height:100px;
     background-color: $primary;
     color:#fff;
     z-index:99999;
@@ -53,5 +53,5 @@ $primary: #007FFE;
 .inner a.info {
     padding-left:5px;
     text-decoration:none;
-    color:#db5454;
+    color:#000000;
 }
