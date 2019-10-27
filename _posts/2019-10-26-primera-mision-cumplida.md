@@ -2,7 +2,7 @@
 layout: post
 title: "Primera misión cumplida"
 subtitle: "Sábado, 26 de Octubre de 2019"
-image: /img/talleres/1901/misioncumplida.png
+image: /img/talleres/1901/misioncumplida.jpg
 author: "Sergio Castillo"
 hero_image: /img/workshop.jpg
 ---
