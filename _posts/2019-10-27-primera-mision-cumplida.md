@@ -9,7 +9,7 @@ hero_image: /img/workshops/1901/programming2.jpg
 
 ## ¡Misión cumplida!
 
-Ya hemos arrancado las actividades del [Club de Informática "Marcos Frechín"](https://itclub.marcosfrechin.es/), juntando a 24 chicos y chicas de infantil y primaria, y a sus papis y mamis, en las instalaciones de nuestro cole. 
+Ya hemos arrancado las actividades del [Club de Informática "Marcos Frechín"](https://itclub.marcosfrechin.es/), juntando a 25 chicos y chicas de infantil y primaria, y a sus papis y mamis, en las instalaciones de nuestro cole. 
 
 Nos ayudaron los amig@s de las legión 501, con la misión de controlar el acceso al taller, pero la verdad es que todo el mundo se portó fenomenal, y se hicieron muchas fotos con ellos...
 
