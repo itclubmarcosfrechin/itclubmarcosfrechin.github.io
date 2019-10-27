@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Primera misión cumplida"
-subtitle: "Sábado, 26 de Octubre de 2019"
+title: "Primer taller completado..."
+subtitle: "El Club de Informática está en marcha"
 image: /img/talleres/1901/misioncumplida.jpg
 author: "Sergio Castillo"
-hero_image: /img/workshop.jpg
+hero_image: /img/talleres/1901/programming.jpg
 ---
 
 ## ¡Misión cumplida!
