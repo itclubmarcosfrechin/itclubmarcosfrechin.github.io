@@ -26,7 +26,5 @@ Nos gustaría aportar nuestra experiencia y conocimientos combinados para acerca
 
 Podrás mantenerte al tanto de los próximos talleres, eventos y publicaciones de esta web...
 
-<div>
-    <a href="https://www.facebook.com/groups/itclubmarcosfrechin" title="facebook"><img src="img/facebook64.png" alt="facebook" /></a>&nbsp;
-    <a href="https://twitter.com/itclubmfrechin" title="twitter"><img src="img/twitter64.png" alt="twitter" /></a>
-</div>
+<a href="https://www.facebook.com/groups/itclubmarcosfrechin" title="facebook"><img src="img/facebook64.png" alt="facebook" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/itclubmfrechin" title="twitter"><img src="img/twitter64.png" alt="twitter" /></a>
