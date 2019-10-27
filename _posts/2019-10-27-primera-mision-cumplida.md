@@ -62,3 +62,9 @@ Los chicos y chicas se lo pasaron fenomenal, y nosotros tres, los impulsores del
 ![Electrónica con sensores y microcontroladores, 1](/img/workshops/1901/itclub_team.jpg)
 
 Y esto tan sólo ha hecho que empezar, cada último sábado de mes volveremos con más proyectos y actividades para intentar que los peques se introduzcan con seguridad y diversión en el mundo de la informática, la programación y la tecnología en general.
+
+## Más información y enlaces
+
+- [Presentación (Power Point) de este taller](/docs/workshops/1901/HolaATodos.pptx)
+- [Grupo del Club de Informática en Facebook](https://www.facebook.com/groups/itclubmarcosfrechin/)
+- [Noticias del Club de Informática en Twitter](https://twitter.com/itclubmfrechin)
