@@ -22,5 +22,14 @@ Esta iniciativa nace desde varios padres y madres de niñas del cole:
 
 Nos gustaría aportar nuestra experiencia y conocimientos combinados para acercar las tecnologías de la información y la robótica a la educación de los niños y niñas, considerando que su inserción desde niveles iniciales proporciona conocimientos que permiten acceder a profesiones de futuro, en un sector en el que actualmente apenas existe paro y además promueve en ellos el pensamiento lógico y computacional, muy valorado en todas las etapas de su desarrollo.
 
+## Si quieres, puedes seguirnos en redes sociales
 
+Podrás mantenerte al tanto de los próximos talleres, eventos y publicaciones de esta web...
 
+<div style="float: left">
+    <a href="https://www.facebook.com/groups/itclubmarcosfrechin"><img src="img/facebook64.png" alt="Facebook" /></a>
+    &nbsp;
+    <a href="https://twitter.com/itclubmfrechin"><img src="img/twitter64.png" alt="Twitter" /></a>
+</div>
+<div style="clear: both">
+</div>
