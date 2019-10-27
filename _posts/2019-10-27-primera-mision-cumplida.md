@@ -2,7 +2,7 @@
 layout: post
 title: "Primer taller completado..."
 subtitle: "El Club de Informática está en marcha"
-image: /img/workshops/1901/presentacion.jpg
+image: /img/workshops/1901/presentacion1.jpg
 author: "Sergio Castillo"
 hero_image: /img/workshops/1901/programming.jpg
 ---
