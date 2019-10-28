@@ -66,7 +66,7 @@ Y esto tan sólo ha hecho que empezar, cada último sábado de mes volveremos co
 ## Más información y enlaces
 
 <ul>
-    <li><a href="https://itclub.marcosfrechin.es/docs/workshops/1901/HolaATodos.pptx" target="_blank">Presentación (Power Point) de este taller</a></li>
+    <li><a href="/docs/workshops/1901/HolaATodos.pptx" target="_blank">Presentación (Power Point) de este taller</a></li>
     <li><a href="https://www.facebook.com/groups/itclubmarcosfrechin/" target="_blank">Grupo del Club de Informática en Facebook</a></li>
     <li><a href="https://twitter.com/itclubmfrechin" target="_blank">Noticias del Club de Informática en Twitter</a></li>
 </ul>
