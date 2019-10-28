@@ -31,7 +31,7 @@ Una vez registrados los asistentes al taller como corresponde, presenciamos una 
 
 Después de la presentación, nos dividimos en equipos, y ...
 
-Los más pequeñitos de infantil, estuvieron jugando con el rotob-ratón para que vayan aprendiendo a programar (gracias María, la profe de infantil que nos echó una mano...)
+Los más pequeñitos de infantil, estuvieron jugando con el robot-ratón para que vayan aprendiendo a programar (gracias María, la profe de infantil que nos echó una mano...)
 
 ![Infantil, jugando con el robot ratón](/img/workshops/1901/infantil_raton.jpeg)
 
