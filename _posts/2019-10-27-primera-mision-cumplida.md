@@ -9,7 +9,7 @@ hero_image: /img/workshops/1901/programming2.jpg
 
 ## ¡Misión cumplida!
 
-Ya hemos arrancado las actividades del [Club de Informática "Marcos Frechín"](https://itclub.marcosfrechin.es/), juntando a 25 chicos y chicas de infantil y primaria, y a sus papis y mamis, en las instalaciones de nuestro cole. 
+Ya hemos arrancado las actividades del [Club de Informática "Marcos Frechín"](https://itclub.marcosfrechin.es/), juntando a 25 chicos y chicas de infantil y primaria, y a sus papis y mamis, en las instalaciones de nuestro cole.
 
 Nos ayudaron los amig@s de las legión 501, con la misión de controlar el acceso al taller, pero la verdad es que todo el mundo se portó fenomenal, y se hicieron muchas fotos con ellos...
 
@@ -57,7 +57,7 @@ Y el resto, fueron pasando por tres actividades distintas:
 
 ## Conclusión
 
-Los chicos y chicas se lo pasaron fenomenal, y nosotros tres, los impulsores del taller todavía más... 
+Los chicos y chicas se lo pasaron fenomenal, y nosotros tres, los impulsores del taller todavía más...
 
 ![Electrónica con sensores y microcontroladores, 1](/img/workshops/1901/itclub_team.jpg)
 
@@ -65,6 +65,8 @@ Y esto tan sólo ha hecho que empezar, cada último sábado de mes volveremos co
 
 ## Más información y enlaces
 
-- [Presentación (Power Point) de este taller](/docs/workshops/1901/HolaATodos.pptx)
-- [Grupo del Club de Informática en Facebook](https://www.facebook.com/groups/itclubmarcosfrechin/)
-- [Noticias del Club de Informática en Twitter](https://twitter.com/itclubmfrechin)
+<ul>
+    <li><a href="https://itclub.marcosfrechin.es/docs/workshops/1901/HolaATodos.pptx" target="_blank">Presentación (Power Point) de este taller</a></li>
+    <li><a href="https://www.facebook.com/groups/itclubmarcosfrechin/" target="_blank">Grupo del Club de Informática en Facebook</a></li>
+    <li><a href="https://twitter.com/itclubmfrechin" target="_blank">Noticias del Club de Informática en Twitter</a></li>
+</ul>
