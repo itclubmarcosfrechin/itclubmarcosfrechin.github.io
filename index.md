@@ -2,6 +2,7 @@
 title: Club de Informática Marcos Frechín
 layout: page
 show_sidebar: true
+image: /img/logoITClub.png
 ---
 
 ## Bienvenido
