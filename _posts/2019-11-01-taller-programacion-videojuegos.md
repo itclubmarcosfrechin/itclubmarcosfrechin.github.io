@@ -9,7 +9,8 @@ hero_image: /img/workshop.jpg
 
 # ¿Jugamos?
 
-Papás, si queréis traer a vuestros hijos al taller, por favor, inscríbelos aquí: [Formulario de inscripción](https://forms.gle/4pQPxtCaKbJG1ebz9)
+**IMPORTANTE: Papás, si queréis traer a vuestros hijos al taller, por favor, inscríbelos aquí:**
+- [Formulario de inscripción](https://forms.gle/4pQPxtCaKbJG1ebz9)
 
 Hemos pensado que en el segundo taller del [Club de Informática](/), **el próximo sábado, 30 de Noviembre de 2019, de 11:30h a 13:00h**... 
 
