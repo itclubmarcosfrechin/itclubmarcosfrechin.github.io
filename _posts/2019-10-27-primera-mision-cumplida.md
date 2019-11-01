@@ -7,7 +7,7 @@ author: "Sergio Castillo"
 hero_image: /img/workshops/1901/programming2.jpg
 ---
 
-## ¡Misión cumplida!
+# ¡Misión cumplida!
 
 Ya hemos arrancado las actividades del [Club de Informática "Marcos Frechín"](https://itclub.marcosfrechin.es/), juntando a 25 chicos y chicas de infantil y primaria, y a sus papis y mamis, en las instalaciones de nuestro cole.
 
@@ -17,7 +17,7 @@ Nos ayudaron los amig@s de las legión 501, con la misión de controlar el acces
 
 ![Control de acceso. Legión 501. Muchos niños se hicieron fotos con ellos](/img/workshops/1901/501_02.jpg)
 
-### La presentación del Club y el evento
+## La presentación del Club y el evento
 
 Una vez registrados los asistentes al taller como corresponde, presenciamos una presentación sobre qué es la informática, de dónde viene, para qué sirve, en qué consiste el Club de Informática y qué íbamos a hacer en este primer taller (Si te la quieres descargar, [¡aquí tienes el enlace!](/docs/workshops/1901/HolaATodos.pptx))
 
@@ -27,7 +27,7 @@ Una vez registrados los asistentes al taller como corresponde, presenciamos una 
 
 ![Presentación. ¡Hola a todos!](/img/workshops/1901/presentacion_equipo.jpg)
 
-### Las actividades
+## Las actividades
 
 Después de la presentación, nos dividimos en equipos, y ...
 
@@ -55,7 +55,7 @@ Y el resto, fueron pasando por tres actividades distintas:
 
 ![Electrónica con sensores y microcontroladores, 2](/img/workshops/1901/electronics2.jpg)
 
-## Conclusión
+# Conclusión
 
 Los chicos y chicas se lo pasaron fenomenal, y nosotros tres, los impulsores del taller todavía más...
 
@@ -63,7 +63,7 @@ Los chicos y chicas se lo pasaron fenomenal, y nosotros tres, los impulsores del
 
 Y esto tan sólo ha hecho que empezar, cada último sábado de mes volveremos con más proyectos y actividades para intentar que los peques se introduzcan con seguridad y diversión en el mundo de la informática, la programación y la tecnología en general.
 
-## Más información y enlaces
+# Más información y enlaces
 
 <ul>
     <li><a href="/docs/workshops/1901/HolaATodos.pptx" target="_blank">Presentación (Power Point) de este taller</a></li>
