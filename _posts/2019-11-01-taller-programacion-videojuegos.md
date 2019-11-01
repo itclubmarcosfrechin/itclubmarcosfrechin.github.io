@@ -9,7 +9,7 @@ hero_image: /img/workshop.jpg
 
 # ¿Jugamos?
 
-> **IMPORTANTE: Papás, si queréis traer a vuestros hijos al taller, por favor, inscribidlos aquí:** <a href="https://forms.gle/4pQPxtCaKbJG1ebz9" target="_blank">Formulario de inscripción</a>
+> **¡IMPORTANTE! Papás, si queréis traer a vuestros hijos al taller, por favor, inscribidlos aquí:** <a href="https://forms.gle/4pQPxtCaKbJG1ebz9" target="_blank">Formulario de inscripción</a>
 
 Hemos pensado que en el segundo taller del [Club de Informática](/), **el próximo sábado, 30 de Noviembre de 2019, de 11:30h a 13:00h**... 
 
@@ -42,7 +42,7 @@ Estaría genial si antes de venir al taller, dedicaseis algo de tiempo en famili
 
 # ¿Te apuntas?
 
-> **IMPORTANTE: Papás, si queréis traer a vuestros hijos al taller, por favor, inscribidlos aquí:** <a href="https://forms.gle/4pQPxtCaKbJG1ebz9" target="_blank">Formulario de inscripción</a>
+> **¡IMPORTANTE! Papás, si queréis traer a vuestros hijos al taller, por favor, inscribidlos aquí:** <a href="https://forms.gle/4pQPxtCaKbJG1ebz9" target="_blank">Formulario de inscripción</a>
 
 Esperamos haberte dejado sin excusas para traer a tus hijos a pasar un rato divertido y didáctico en el [Club de Informática Marcos Frechín](/). Como el taller anterior, invitamos a todos los niños y niñas de infantil y primaria que quieran venir... **¡AUNQUE VAYÁIS A ESTUDIAR A OTRO COLE, TOD@S SOIS BIENVENIDOS!**. 
 
