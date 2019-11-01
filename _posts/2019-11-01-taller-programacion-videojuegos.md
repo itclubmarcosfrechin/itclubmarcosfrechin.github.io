@@ -21,7 +21,7 @@ Bueno, bueno, pero antes de ponernos a gritar como loc@s y lanzarnos a jugar com
 ## Los tendremos que programar nosotros mismos...
 
 <div style="float: right; margin-right: 15px">
-<img src="img/workshops/1911/bebeprogrammer.jpg" alt="¿Programamos?" />
+<img src="/img/workshops/1911/bebeprogrammer.jpg" alt="¿Programamos?" />
 </div>
 
 Este mes, en el Club de Informática Marcos Frechín, con [Bea](http://twitter.com/beatrizremiro) como conductora, vamos a programar un par de videojuegos con [Scratch](https://scratch.mit.edu/about), y iremos adentrándonos en el mundo de la programación de ordenadores de una forma muy divertida...
