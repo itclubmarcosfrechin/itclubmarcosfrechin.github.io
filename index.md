@@ -29,3 +29,9 @@ Podrás mantenerte al tanto de los próximos talleres, eventos y publicaciones d
 
 <a href="https://www.facebook.com/groups/itclubmarcosfrechin" title="facebook" target="_blank"><img src="img/facebook64.png" alt="facebook" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/itclubmfrechin" title="twitter" target="_blank"><img src="img/twitter64.png" alt="twitter" /></a>
+
+## O enviarnos un correo electrónico
+
+Con tus preguntas, inquitudes, sugerencias, etc...
+
+<a href="mailto:itclub@marcosfrechin.es" title="email"><img src="img/mail64.png" alt="facebook" /></a>
