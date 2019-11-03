@@ -5,6 +5,7 @@ subtitle: "El Club de Informática está en marcha"
 image: /img/workshops/1901/presentacion1.jpg
 author: "Sergio Castillo"
 hero_image: /img/workshops/1901/programming2.jpg
+show_sidebar: false
 ---
 
 # ¡Misión cumplida!
