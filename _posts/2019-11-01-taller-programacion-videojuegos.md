@@ -33,6 +33,7 @@ Empezaremos a conocer el entorno de Scratch con el juego "El gato del Marcos Fre
 Para los papis y mamis que estéis leyendo esto, debéis saber que aprender a programar en edades tempranas proporciona un conjunto de beneficios muy interesante, fijaos en la siguiente infografía
 
 ![Beneficios de aprender a programar a edades tempranas](/img/workshops/1911/beneficiosprogram.jpg)
+
 fuente de la infografía: <a href="http://blog.conmasfuturo.com/16-beneficios-de-aprender-programacion-a-edades-tempranas" target="_blank">blog.conmasfuturo.com</a>
 
 # Id preparándoos...
