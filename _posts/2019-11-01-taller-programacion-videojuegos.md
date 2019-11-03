@@ -2,7 +2,7 @@
 layout: post
 title: "Taller de programación de videojuegos"
 subtitle: "Sábado, 30 de Noviembre de 2019, de 11:30h a 13:00h"
-image: /img/workshops/1911/arcadegamesHead.png
+image: /img/workshops/1911/arcadegames.png
 author: "Sergio Castillo"
 hero_image: /img/workshop.jpg
 show_sidebar: false
