@@ -16,20 +16,15 @@ En esta ocasión [Beatriz](https://twitter.com/BeatrizRemiro) lideró un taller 
 
 # Materiales para trabajar en casa
 
-Tal y como anunciamos en el taller, os dejamos aquí cositas para continuar el trabajo en casa:
+Tal y como anunciamos durante la actividad, os dejamos aquí cositas para continuar el trabajo en casa:
 
-- <a href="/docs/workshops/1911/MarcosFrechin.sb3" target="_blank">El gato del Frechín</a>
-- <a href="/docs/workshops/1911/Grinch.sb3" target="_blank">Juego del Grinch</a>
-- <a href="/docs/workshops/1911/Laberinto.sb3" target="_blank">Juego del Laberinto</a>
+- <a href="/docs/workshops/1911/guia-gatofrechin.pdf" target="_blank">La guía de trabajo del taller</a>
+- <a href="/docs/workshops/1911/MarcosFrechin.sb3" target="_blank">La solución completa del taller: El gato del Frechín</a>
+- Los dos juegos con los que disfrutamos al final:
+   - <a href="/docs/workshops/1911/Grinch.sb3" target="_blank">Juego del Grinch</a>
+   - <a href="/docs/workshops/1911/Laberinto.sb3" target="_blank">Juego del Laberinto</a>
 
 Más abajo, en la sección "Mas información y enlaces", tenéis una guía de inicio con Scratch y el enlace a la aplicación online.
-
-# Fotos del taller
-
-![Bienvenida](/img/workshops/1911/001-bienvenida.jpg)
-![Bienvenida](/img/workshops/1911/101-previo.jpg)
-![Bienvenida](/img/workshops/1911/102-previo.jpg)
-![Bienvenida](/img/workshops/1911/103-previo.jpg)
 
 # Más información y enlaces
 
@@ -37,3 +32,23 @@ Más abajo, en la sección "Mas información y enlaces", tenéis una guía de in
     <li><a href="https://scratch.mit.edu/parents/" target="_blank">¿Qué es Scratch?</a></li>
     <li><a href="/docs/workshops/1911/Guía-para-conocer-sobre-el-entorno-de-Scratch-3.pdf" target="_blank">Guía para conocer el entorno de Scratch</a></li>
 </ul>
+
+# Fotos del taller
+
+![Bienvenida](/img/workshops/1911/001-bienvenida.jpg)
+![Bienvenida](/img/workshops/1911/101-previo.jpg)
+![Bienvenida](/img/workshops/1911/102-previo.jpg)
+![Bienvenida](/img/workshops/1911/103-previo.jpg)
+![Bienvenida](/img/workshops/1911/104-previo.jpg)
+![Bienvenida](/img/workshops/1911/201-taller.jpg)
+![Bienvenida](/img/workshops/1911/202-taller.jpg)
+![Bienvenida](/img/workshops/1911/203-taller.jpg)
+![Bienvenida](/img/workshops/1911/204-taller.jpg)
+![Bienvenida](/img/workshops/1911/205-taller.jpg)
+![Bienvenida](/img/workshops/1911/206-taller.jpg)
+![Bienvenida](/img/workshops/1911/207-taller.jpg)
+![Bienvenida](/img/workshops/1911/301-peques.jpg)
+![Bienvenida](/img/workshops/1911/302-peques.jpg)
+![Bienvenida](/img/workshops/1911/303-peques.jpg)
+![Bienvenida](/img/workshops/1911/304-peques.jpg)
+![Bienvenida](/img/workshops/1911/900-final.jpg)

@@ -1,8 +1,2 @@
 - name: Noticias
   link: /blog/
-
-- name: Materiales
-  link: #
-  items:
-    - name: Scratch
-      link: /pages/scratch/
