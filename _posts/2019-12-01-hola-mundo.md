@@ -24,14 +24,13 @@ Tal y como anunciamos durante la actividad, os dejamos aquí cositas para contin
    - <a href="/docs/workshops/1911/Grinch.sb3" target="_blank">Juego del Grinch</a>
    - <a href="/docs/workshops/1911/Laberinto.sb3" target="_blank">Juego del Laberinto</a>
 
-Más abajo, en la sección "Mas información y enlaces", tenéis una guía de inicio con Scratch y el enlace a la aplicación online.
+Y aquí tenéis una guía de inicio con Scratch y el enlace a la aplicación online.
 
 # Más información y enlaces
 
-<ul>
-    <li><a href="https://scratch.mit.edu/parents/" target="_blank">¿Qué es Scratch?</a></li>
-    <li><a href="/docs/workshops/1911/Guía-para-conocer-sobre-el-entorno-de-Scratch-3.pdf" target="_blank">Guía para conocer el entorno de Scratch</a></li>
-</ul>
+- <a href="/docs/workshops/1911/Guía-para-conocer-sobre-el-entorno-de-Scratch-3.pdf" target="_blank">Guía para conocer el entorno de Scratch</a>
+- <a href="https://scratch.mit.edu/parents/" target="_blank">¿Qué es Scratch?</a>
+- <a href="https://scratch.mit.edu/projects/editor/" target="_blank">Acceso al editor</a>
 
 # Fotos del taller
 
