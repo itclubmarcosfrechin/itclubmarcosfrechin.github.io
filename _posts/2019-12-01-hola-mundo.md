@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Hola mundo..."
+subtitle: "¡Ya somos programadores!"
+image: /img/workshops/1911/900-final.jpg
+author: "Sergio Castillo"
+hero_image: /img/workshops/1911/203-taller.jpg
+show_sidebar: false
+---
+
+# El gato del Marcos Frechín
+
+Viento en popa... Nuestra segunda actividad del Club de Informática, con 30 chavales y chavalas, y algunos de sus padres.
+
+En esta ocasión [Beatriz](https://twitter.com/BeatrizRemiro) lideró un taller de programación con Scratch, con la creación de videojuegos como aliciente para los zagales, que se involucraron mucho en el período de aprendizaje, enfocado a tomar contacto con el entorno de trabajo de Scratch y construir un primer juego interactivo, protagonizado por Frechicat, el gato del Frechín...
+
+# Materiales para trabajar en casa
+
+Tal y como anunciamos en el taller, os dejamos aquí cositas para continuar el trabajo en casa:
+
+- <a href="/docs/workshops/1911/MarcosFrechin.sb3" target="_blank">El gato del Frechín</a>
+- <a href="/docs/workshops/1911/Grinch.sb3" target="_blank">Juego del Grinch</a>
+- <a href="/docs/workshops/1911/Laberinto.sb3" target="_blank">Juego del Laberinto</a>
+
+Más abajo, en la sección "Mas información y enlaces", tenéis una guía de inicio con Scratch y el enlace a la aplicación online.
+
+# Fotos del taller
+
+![Bienvenida](/img/workshops/1911/001-bienvenida.jpg)
+![Bienvenida](/img/workshops/1911/101-previo.jpg)
+![Bienvenida](/img/workshops/1911/102-previo.jpg)
+![Bienvenida](/img/workshops/1911/103-previo.jpg)
+
+# Más información y enlaces
+
+<ul>
+    <li><a href="https://scratch.mit.edu/parents/" target="_blank">¿Qué es Scratch?</a></li>
+    <li><a href="/docs/workshops/1911/Guía-para-conocer-sobre-el-entorno-de-Scratch-3.pdf" target="_blank">Guía para conocer el entorno de Scratch</a></li>
+</ul>
