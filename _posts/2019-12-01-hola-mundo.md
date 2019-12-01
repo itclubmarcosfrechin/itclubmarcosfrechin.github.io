@@ -30,7 +30,7 @@ Y aquí tenéis una guía de inicio con Scratch y el enlace a la aplicación onl
 
 - <a href="/docs/workshops/1911/Guía-para-conocer-sobre-el-entorno-de-Scratch-3.pdf" target="_blank">Guía para conocer el entorno de Scratch</a>
 - <a href="https://scratch.mit.edu/parents/" target="_blank">¿Qué es Scratch?</a>
-- <a href="https://scratch.mit.edu/projects/editor/" target="_blank">Acceso al editor</a>
+- <a href="https://scratch.mit.edu/projects/editor/" target="_blank">Acceso al editor (Desde aquí tenéis que empezar a programar, como en la actividad)</a>
 
 # Fotos del taller
 
