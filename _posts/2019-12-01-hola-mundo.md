@@ -14,6 +14,8 @@ Viento en popa... Nuestra segunda actividad del Club de Informática, con 30 cha
 
 En esta ocasión <a href="https://twitter.com/BeatrizRemiro" target="_blank">Beatriz</a> lideró un taller de programación con Scratch, con la creación de videojuegos como aliciente para los zagales, que se involucraron mucho en el período de aprendizaje, enfocado a tomar contacto con el entorno de trabajo de Scratch y construir un primer juego interactivo, protagonizado por Frechicat, el gato del Frechín...
 
+Y para los más peques, que aún no saben leer bien, sesión de inicio a la programación con la ayuda de Daniel y María y la abejita robótica y el robot Maqueen. 
+
 # Materiales para trabajar en casa
 
 Tal y como anunciamos durante la actividad, os dejamos aquí cositas para continuar el trabajo en casa:
