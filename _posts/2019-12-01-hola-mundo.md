@@ -40,7 +40,6 @@ Muchas gracias, <a href="https://twitter.com/vronikrr" target="_blank">Verónica
 
 ![Bienvenida](/img/workshops/1911/001-bienvenida.jpg)
 ![Bienvenida](/img/workshops/1911/101-previo.jpg)
-![Bienvenida](/img/workshops/1911/102-previo.jpg)
 ![Bienvenida](/img/workshops/1911/103-previo.jpg)
 ![Bienvenida](/img/workshops/1911/104-previo.jpg)
 ![Bienvenida](/img/workshops/1911/201-taller.jpg)
