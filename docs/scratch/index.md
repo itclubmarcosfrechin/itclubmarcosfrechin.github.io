@@ -10,7 +10,9 @@ A continuación os dejamos una lista de enlaces útiles para trabajar con Scratc
 
 <div class="columns">
     <div class="column">
-        <img src="/img/ScratchLogoCat.png" />
+        <a src="/docs/scratch/">
+            <img src="/img/ScratchLogoCat.png" />
+        </a>
     </div>
 </div>
 
