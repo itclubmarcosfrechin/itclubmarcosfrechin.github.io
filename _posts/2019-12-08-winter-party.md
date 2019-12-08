@@ -40,7 +40,7 @@ Seguro que se os ocurre alguna cosa más de la que hablar en ese rato... Somos t
 
 ![Mapa acceso Marcos Frechín](/img/mapa_acceso.png)
 
-<p class="has-text-light">Imagen de cabecera gracias a <a href="https://pixabay.com/users/MrXee-13640609/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4480309">Zubair Anwar</a> en <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4480309" target="_blank">Pixabay</a></p>
+<p class="has-text-grey-light">Imagen de cabecera gracias a <a href="https://pixabay.com/users/MrXee-13640609/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4480309">Zubair Anwar</a> en <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4480309" target="_blank">Pixabay</a></p>
 
 
 
