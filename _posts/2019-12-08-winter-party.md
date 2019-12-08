@@ -44,7 +44,7 @@ Seguro que se os ocurre alguna cosa más de la que hablar en ese rato... Somos t
 
 > **¡IMPORTANTE! Papás, si queréis traer a vuestros hijos al taller, por favor, inscribidlos aquí:** <a href="https://forms.gle/Q1wSb47u12vT4zvH6" target="_blank">Formulario de inscripción</a>
 
-<p class="has-text-grey-light is-size-1">Imagen de cabecera gracias a <a href="https://pixabay.com/users/MrXee-13640609/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4480309" target="_blank">Zubair Anwar</a> en <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4480309" target="_blank">Pixabay</a></p>
+<p class="has-text-grey-light is-size-7">Imagen de cabecera gracias a <a href="https://pixabay.com/users/MrXee-13640609/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4480309" target="_blank">Zubair Anwar</a> en <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4480309" target="_blank">Pixabay</a></p>
 
 
 
