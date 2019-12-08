@@ -10,3 +10,16 @@ image: /img/logoITClub.png
 #### Pulsa sobre el logo para navegar a la página de materiales correspondientes
 
 [![Scratch](/img/ScratchLogo.png)](scratch/)
+
+<div class="columns">
+    <div class="column">
+        <a href="scratch/">
+            <img src="/img/ScratchLogo.png" />
+        </a>
+    </div>
+    <div class="column">
+        <a href="scratch/">
+            <img src="/img/ScratchCat.png" />
+        </a>
+    </div>
+</div>
