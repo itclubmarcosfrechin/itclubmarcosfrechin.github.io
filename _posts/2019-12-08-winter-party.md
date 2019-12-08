@@ -22,7 +22,7 @@ Leed, leed...
 
 Este mes es complicado para afrontar talleres sesudos, se acercan las vacaciones, el fin de año, las cenas familiares, los regalos... Así que vamos a aprovechar para conocernos mejor y hacer piña en la pandilla que se ha formado después de los dos primeros talleres del Club.
 
-El plan es el siguiente: **Quedamos como siempre en el cole a las 11:30**, echamos unas partiditas a algún juego (de los sanotes eh, nada de tiros, y sobre todo con moderación...), y después tenemos preparado un aperitivo y con esa excusa, conversamos un poco entre nosotros:
+El plan es el siguiente: **Quedamos como siempre en el cole a las 11:30**, echamos unas partiditas a algún juego (de los sanotes eh, nada de tiros, y sobre todo con moderación...), y después tenemos preparado un aperitivo (para niños, niñas, papás y mamás) y con esa excusa, conversamos un poco entre nosotros:
 
 - ¿Os han gustado los talleres hasta ahora?
 - ¿Qué próximos talleres planeamos?
@@ -39,7 +39,6 @@ Seguro que se os ocurre alguna cosa más de la que hablar en ese rato... Somos t
 **El acceso al taller tendrá lugar por la puerta principal del centro, en C/ Doctor Iranzo, s/n, 50013 Zaragoza.**. Os dejamos un croquis en el que está señalizado dicho acceso.
 
 ![Mapa acceso Marcos Frechín](/img/mapa_acceso.png)
-
 
 <p class="has-text-light">Imagen de cabecera gracias a <a href="https://pixabay.com/users/MrXee-13640609/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4480309">Zubair Anwar</a> en <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4480309" target="_blank">Pixabay</a></p>
 
