@@ -15,7 +15,7 @@ Imagen de <a href="https://pixabay.com/users/MrXee-13640609/?utm_source=link-att
 
 Sí, se acerca el invierno, y las vacaciones... Pero antes de eso, el [Club de Informática del Marcos Frechín](/) os propone un plan para **el próximo sábado, 14 de Diciembre de 2019, de 11:30 a 13:30**.
 
-![Se acerca el invierno](/img/workshops/1912/winter.jpg | width=400)
+![Se acerca el invierno](/img/workshops/1912/winter.jpg)
 
 Leed, leed...
 
