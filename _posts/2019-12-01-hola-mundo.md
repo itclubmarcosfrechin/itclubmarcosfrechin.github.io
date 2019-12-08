@@ -26,9 +26,7 @@ Tal y como anunciamos durante la actividad, os dejamos aquí cositas para contin
    - <a href="/docs/workshops/1911/Grinch.sb3" target="_blank">Juego del Grinch</a>
    - <a href="/docs/workshops/1911/Laberinto.sb3" target="_blank">Juego del Laberinto</a>
 
-Y aquí tenéis una guía de inicio con Scratch y el enlace a la aplicación online.
-
-# Más información y enlaces
+Y aquí tenéis una guía e información de inicio con Scratch y el enlace a la aplicación online.
 
 - <a href="/docs/workshops/1911/Guía-para-conocer-sobre-el-entorno-de-Scratch-3.pdf" target="_blank">Guía para conocer el entorno de Scratch</a>
 - <a href="https://scratch.mit.edu/parents/" target="_blank">¿Qué es Scratch?</a>
