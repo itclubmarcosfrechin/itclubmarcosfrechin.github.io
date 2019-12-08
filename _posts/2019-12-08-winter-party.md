@@ -22,6 +22,8 @@ Leed, leed...
 
 Este mes es complicado para afrontar talleres sesudos, se acercan las vacaciones, el fin de año, las cenas familiares, los regalos... Así que vamos a aprovechar para conocernos mejor y hacer piña en la pandilla que se ha formado después de los dos primeros talleres del Club.
 
+Como en el taller anterior, **se cobrará 1€ por niño/a**, que gestionará el AMPA del colegio con idea de ir comprando material para la realización de proyectos en el Club durante el curso 2019/20.
+
 El plan es el siguiente: **Quedamos como siempre en el cole a las 11:30**, echamos unas partiditas a algún juego (de los sanotes eh, nada de tiros, y sobre todo con moderación...), y después tenemos preparado un aperitivo (para niños, niñas, papás y mamás) y con esa excusa, conversamos un poco entre nosotros:
 
 - ¿Os han gustado los talleres hasta ahora?
