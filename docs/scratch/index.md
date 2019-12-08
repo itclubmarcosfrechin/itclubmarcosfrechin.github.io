@@ -8,9 +8,7 @@ image: /img/logoITClub.png
 
 <div class="columns">
     <div class="column">
-        <a src="/docs/scratch/">
-            <img src="/img/ScratchLogoCat.png" alt="Scratch" />
-        </a>
+        <img src="/img/ScratchLogoCat.png" alt="Scratch" />
     </div>
 </div>
 
