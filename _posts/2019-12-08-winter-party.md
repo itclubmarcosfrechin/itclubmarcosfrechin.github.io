@@ -26,9 +26,9 @@ El plan es el siguiente: **Quedamos como siempre en el cole a las 11:30**, echam
 
 - ¿Os han gustado los talleres hasta ahora?
 - ¿Qué próximos talleres planeamos?
-- Si tenéis curiosidad, podéis preguntar cosas sobre nuestros trabajos (tanto los niños/as como los papás y mamás): ¿qué hacemos durante nuestra jornada de trabajo?, ¿qué hemos estudiado para dedicarnos a la informática...?
-- También os preguntaremos cosas a vosotros... ¿por qué os gusta la informática? ¿en qué os gustaría trabajar cuando seais mayores?
-- Si alguno ha estado [practicando con Scratch después del último taller](/2019/12/01/hola-mundo/), quizá tenga alguna duda... ¡aprovechad para preguntárnosla! Y si no lo habéis hecho ¿a qué esperáis?
+- Si tenéis curiosidad, podéis preguntar cosas sobre nuestros trabajos a los organizadores del Club (tanto los niños/as como los papás y mamás): ¿qué hacemos durante nuestra jornada de trabajo?, ¿qué hemos estudiado para dedicarnos a la informática...?
+- También os preguntaremos cosas a vosotr@s... ¿por qué os gusta la informática? ¿en qué os gustaría trabajar cuando seais mayores?
+- Si algun@ ha estado [practicando con Scratch después del último taller](/2019/12/01/hola-mundo/), quizá tenga alguna duda... ¡aprovechad para preguntárnosla! Y si no lo habéis hecho ¿a qué esperáis?
 
 Seguro que se os ocurre alguna cosa más de la que hablar en ese rato... Somos todo orejas...
 
