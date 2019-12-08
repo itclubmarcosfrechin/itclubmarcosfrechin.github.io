@@ -10,10 +10,10 @@ A continuación os dejamos una lista de enlaces útiles para trabajar con Scratc
 
 <div class="columns">
     <div class="column">
-        ![Scratch](/img/ScratchCat.png)
+        <img href="/img/ScratchCat.png"></img>
     </div>
     <div class="column">
-        ![Scratch](/img/ScratchLogo.png)
+        <img href="/img/ScratchLogo.png"></img>
     </div>
 </div>
 
