@@ -6,7 +6,16 @@ show_sidebar: true
 image: /img/logoITClub.png
 ---
 
-A continuación os dejamos una lista de enlaces útiles para trabajar con Scratch:
+A continuación os dejamos una lista de enlaces útiles para trabajar con Scratch
+
+<div class="columns">
+    <div class="column">
+        ![Scratch](/img/ScratchCat.png)
+    </div>
+    <div class="column">
+        ![Scratch](/img/ScratchLogo.png)
+    </div>
+</div>
 
 - <a href="https://scratch.mit.edu/parents/" target="_blank">¿Qué es Scratch?</a>
 - <a href="/docs/workshops/1911/Guía-para-conocer-sobre-el-entorno-de-Scratch-3.pdf" target="_blank">Guía para conocer el entorno de Scratch</a>
