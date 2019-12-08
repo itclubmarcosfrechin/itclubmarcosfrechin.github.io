@@ -11,7 +11,7 @@ image: /img/logoITClub.png
 
 <div class="columns">
     <div class="column">
-        <a src="/docs/scratch/">
+        <a href="/docs/scratch/">
             <img src="/img/ScratchLogoCat.png" />
         </a>
     </div>
