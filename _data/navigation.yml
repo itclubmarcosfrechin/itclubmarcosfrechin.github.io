@@ -1,7 +1,7 @@
 - name: Noticias
   link: /blog/
 - name: Materiales
-  link: /docs/index/
+  link: /docs/
   dropdown:
     - name: Scratch
       link: /docs/scratch/
