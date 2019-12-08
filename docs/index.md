@@ -13,13 +13,6 @@ image: /img/logoITClub.png
 
 <div class="columns">
     <div class="column">
-        <a href="scratch/">
-            <img src="/img/ScratchLogo.png" />
-        </a>
-    </div>
-    <div class="column">
-        <a href="scratch/">
-            <img src="/img/ScratchCat.png" />
-        </a>
+        <img src="/img/ScratchLogoCat.png" />
     </div>
 </div>
