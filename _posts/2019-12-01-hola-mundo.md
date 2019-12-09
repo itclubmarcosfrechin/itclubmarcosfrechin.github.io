@@ -8,7 +8,7 @@ hero_image: /img/workshops/1911/203-taller.jpg
 show_sidebar: false
 ---
 
-Viento en popa... así ha ido nuestra segunda actividad del Club de Informática, con 30 chavales y chavalas, y algunos de sus padres.
+Viento en popa... así ha ido la segunda actividad del Club de Informática, nuestro primer taller de programación de videojuegos con Scratch. Hemos contado con 30 chavales y chavalas, y algunos de sus padres y madres. Los más peques han estado practicando lo más básico de la programación con robots educativos y se lo han pasado piruleta...
 
 ## El gato del Marcos Frechín
 
