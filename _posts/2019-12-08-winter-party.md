@@ -11,7 +11,7 @@ show_sidebar: false
 
 Tras un arranque espacial y un taller de programación muy divertido, queremos afontar el fin de año con una sesión más ligerilla, con el objetivo de conocernos mejor y recabar ideas que se puedan plasmar en los próximos talleres.
 
-# Winter is coming (se acerca el invierno)...
+## Winter is coming (se acerca el invierno)...
 
 > **¡IMPORTANTE! Papás, si queréis traer a vuestros hijos al taller, por favor, inscribidlos aquí:** <a href="https://forms.gle/Q1wSb47u12vT4zvH6" target="_blank">Formulario de inscripción</a>
 
@@ -21,7 +21,7 @@ Sí, se acerca el invierno, y las vacaciones... Pero antes de eso, el [Club de I
 
 Leed, leed...
 
-# Juegos y networking
+## Juegos y networking
 
 Este mes es complicado para afrontar talleres sesudos, se acercan las vacaciones, el fin de año, las cenas familiares, los regalos... Así que vamos a aprovechar para conocernos mejor y hacer piña en la pandilla que se ha formado después de los dos primeros talleres del Club.
 
@@ -39,7 +39,7 @@ Seguro que se os ocurre alguna cosa más de la que hablar en ese rato... Somos t
 
 ![Somos todo orejas](/img/workshops/1912/elefante_orejas.jpg)
 
-# ¿Cómo llegar?
+## ¿Cómo llegar?
 
 **El acceso al taller tendrá lugar por la puerta principal del centro, en C/ Doctor Iranzo, s/n, 50013 Zaragoza.**. Os dejamos un croquis en el que está señalizado dicho acceso.
 
