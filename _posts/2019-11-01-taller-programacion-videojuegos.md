@@ -40,7 +40,7 @@ fuente de la infografía: <a href="http://blog.conmasfuturo.com/16-beneficios-de
 Estaría genial si antes de venir al taller, dedicaseis algo de tiempo en familia a enteraos de qué esto de programar y cómo funciona el entorno informático que vamos a usar. Sería ideal que lo utilizáseis también después en casa y los chavales puedan seguir avanzando por su cuenta, porque vamos a utilizar estos conceptos muchas más veces en el Club.
 
 - <a href="https://scratch.mit.edu/parents/" target="_blank">¿Qué es Scratch?</a>
-- <a href="/docs/workshops/1911/Guía-para-conocer-sobre-el-entorno-de-Scratch-3.pdf" target="_blank">Guía para conocer el entorno de Scratch</a>
+- <a href="/docs/scratch/Guía-para-conocer-sobre-el-entorno-de-Scratch-3.pdf" target="_blank">Guía para conocer el entorno de Scratch</a>
 
 # ¿Te apuntas?
 

@@ -20,15 +20,15 @@ Y para los más peques, que aún no saben leer bien, sesión de inicio a la prog
 
 Tal y como anunciamos durante la actividad, os dejamos aquí cositas para continuar el trabajo en casa:
 
-- <a href="/docs/workshops/1911/guia-gatofrechin.pdf" target="_blank">La guía de trabajo del taller</a>
-- <a href="/docs/workshops/1911/MarcosFrechin.sb3" target="_blank">La solución completa del taller: El gato del Frechín</a>
+- <a href="/docs/scratch/guia-gatofrechin.pdf" target="_blank">La guía de trabajo del taller</a>
+- <a href="/docs/scratch/MarcosFrechin.sb3" target="_blank">La solución completa del taller: El gato del Frechín</a>
 - Los dos juegos con los que disfrutamos al final:
-   - <a href="/docs/workshops/1911/Grinch.sb3" target="_blank">Juego del Grinch</a>
-   - <a href="/docs/workshops/1911/Laberinto.sb3" target="_blank">Juego del Laberinto</a>
+   - <a href="/docs/scratch/Grinch.sb3" target="_blank">Juego del Grinch</a>
+   - <a href="/docs/scratch/Laberinto.sb3" target="_blank">Juego del Laberinto</a>
 
 Y aquí tenéis una guía e información de inicio con Scratch y el enlace a la aplicación online.
 
-- <a href="/docs/workshops/1911/Guía-para-conocer-sobre-el-entorno-de-Scratch-3.pdf" target="_blank">Guía para conocer el entorno de Scratch</a>
+- <a href="/docs/scratch/Guía-para-conocer-sobre-el-entorno-de-Scratch-3.pdf" target="_blank">Guía para conocer el entorno de Scratch</a>
 - <a href="https://scratch.mit.edu/parents/" target="_blank">¿Qué es Scratch?</a>
 - <a href="https://scratch.mit.edu/projects/editor/" target="_blank">Acceso al editor (Desde aquí tenéis que empezar a programar, como en la actividad)</a>
 
