@@ -8,7 +8,7 @@ hero_image: /img/workshops/1911/203-taller.jpg
 show_sidebar: false
 ---
 
-Viento en popa... Nuestra segunda actividad del Club de Informática, con 30 chavales y chavalas, y algunos de sus padres.
+Viento en popa... así ha ido nuestra segunda actividad del Club de Informática, con 30 chavales y chavalas, y algunos de sus padres.
 
 ## El gato del Marcos Frechín
 
