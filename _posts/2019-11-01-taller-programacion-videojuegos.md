@@ -8,7 +8,7 @@ hero_image: /img/workshop.jpg
 show_sidebar: false
 ---
 
-En este mes de noviembre, vamos a atacar uno de los pilares fundamentales de la informática, la programación. Es muy importante porque casi todas las actividades que hagamos en el Club van a necesitar que programemos de una u otra manera... Aplicaciones, robots, controladores de sensores... todos necesitan una pizquilla de programación.
+En este mes de noviembre, vamos a atacar uno de los pilares fundamentales de la informática, la programación. Esta disciplina es muy importante, porque casi todas las actividades que hagamos en el Club van a necesitar que programemos de una u otra manera... Aplicaciones, robots, controladores de sensores... todos necesitan una pizquilla de programación al menos.
 
 ## ¿Jugamos?
 
