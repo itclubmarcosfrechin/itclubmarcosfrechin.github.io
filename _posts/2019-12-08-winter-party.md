@@ -2,11 +2,14 @@
 layout: post
 title: "Taller de juegos online"
 subtitle: "Juegos, networking y aperitivo pre-vacaciones"
+description: "Juegos, networking y aperitivo pre-vacaciones"
 image: /img/workshops/1912/gamer.jpg
 author: "Sergio Castillo"
 hero_image: /img/workshops/1912/gamer.jpg
 show_sidebar: false
 ---
+
+Tras un arranque espacial y un taller de programación muy divertido, queremos afontar el fin de año con una sesión más ligerilla, con el objetivo de conocernos mejor y recabar ideas que se puedan plasmar en los próximos talleres.
 
 # Winter is coming (se acerca el invierno)...
 

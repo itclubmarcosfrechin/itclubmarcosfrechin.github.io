@@ -8,15 +8,15 @@ hero_image: /img/workshops/1911/203-taller.jpg
 show_sidebar: false
 ---
 
-# El gato del Marcos Frechín
-
 Viento en popa... Nuestra segunda actividad del Club de Informática, con 30 chavales y chavalas, y algunos de sus padres.
+
+## El gato del Marcos Frechín
 
 En esta ocasión <a href="https://twitter.com/BeatrizRemiro" target="_blank">Beatriz</a> lideró un taller de programación con Scratch, con la creación de videojuegos como aliciente para los zagales, que se involucraron mucho en el período de aprendizaje, enfocado a tomar contacto con el entorno de trabajo de Scratch y construir un primer juego interactivo, protagonizado por Frechicat, el gato del Frechín...
 
 Y para los más peques, que aún no saben leer bien, sesión de inicio a la programación con la ayuda de Daniel y María y la abejita robótica y el robot Maqueen. 
 
-# Materiales para trabajar en casa
+## Materiales para trabajar en casa
 
 Tal y como anunciamos durante la actividad, os dejamos aquí cositas para continuar el trabajo en casa:
 
@@ -32,7 +32,7 @@ Y aquí tenéis una guía e información de inicio con Scratch y el enlace a la 
 - <a href="https://scratch.mit.edu/parents/" target="_blank">¿Qué es Scratch?</a>
 - <a href="https://scratch.mit.edu/projects/editor/" target="_blank">Acceso al editor (Desde aquí tenéis que empezar a programar, como en la actividad)</a>
 
-# Fotos del taller
+## Fotos del taller
 
 Muchas gracias, <a href="https://twitter.com/vronikrr" target="_blank">Verónica</a> por las fotos
 

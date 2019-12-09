@@ -8,7 +8,9 @@ hero_image: /img/workshop.jpg
 show_sidebar: false
 ---
 
-# ¿Jugamos?
+En este mes de noviembre, vamos a atacar uno de los pilares fundamentales de la informática, la programación. Es muy importante porque casi todas las actividades que hagamos en el Club van a necesitar que programemos de una u otra manera... Aplicaciones, robots, controladores de sensores... todos necesitan una pizquilla de programación.
+
+## ¿Jugamos?
 
 > **¡IMPORTANTE! Papás, si queréis traer a vuestros hijos al taller, por favor, inscribidlos aquí:** <a href="https://forms.gle/4pQPxtCaKbJG1ebz9" target="_blank">Formulario de inscripción</a>
 
@@ -18,7 +20,7 @@ NOS VAMOS A DEDICAR A JUGAR A VIDEOJUEGOS...  **¿Qué os parece?**
 
 Bueno, bueno, pero antes de ponernos a gritar como loc@s y lanzarnos a jugar como si no hubiera un mañana, tenéis que saber que...
 
-## Los tendremos que programar nosotros mismos...
+### Los tendremos que programar nosotros mismos...
 
 <div style="float: right; margin-right: 15px">
 <img src="/img/workshops/1911/bebeprogrammer.jpg" alt="¿Programamos?" />
@@ -36,13 +38,13 @@ Para los papis y mamis que estéis leyendo esto, debéis saber que aprender a pr
 
 fuente de la infografía: <a href="http://blog.conmasfuturo.com/16-beneficios-de-aprender-programacion-a-edades-tempranas" target="_blank">blog.conmasfuturo.com</a>
 
-# Id preparándoos...
+## Id preparándoos...
 Estaría genial si antes de venir al taller, dedicaseis algo de tiempo en familia a enteraos de qué esto de programar y cómo funciona el entorno informático que vamos a usar. Sería ideal que lo utilizáseis también después en casa y los chavales puedan seguir avanzando por su cuenta, porque vamos a utilizar estos conceptos muchas más veces en el Club.
 
 - <a href="https://scratch.mit.edu/parents/" target="_blank">¿Qué es Scratch?</a>
 - <a href="/docs/scratch/Guía-para-conocer-sobre-el-entorno-de-Scratch-3.pdf" target="_blank">Guía para conocer el entorno de Scratch</a>
 
-# ¿Te apuntas?
+## ¿Te apuntas?
 
 > **¡IMPORTANTE! Papás, si queréis traer a vuestros hijos al taller, por favor, inscribidlos aquí:** <a href="https://forms.gle/4pQPxtCaKbJG1ebz9" target="_blank">Formulario de inscripción</a>
 
@@ -54,7 +56,7 @@ Esta va ser una actividad *recomendada para niños a partir de 6 años (educaci�
 
 ![Instrucciones básicas con robots educativos](/img/workshops/1901/infantil_raton.jpeg)
 
-# ¿Cómo llegar?
+## ¿Cómo llegar?
 
 **El acceso al taller tendrá lugar por la puerta principal del centro, en C/ Doctor Iranzo, s/n, 50013 Zaragoza.**. Os dejamos un croquis en el que está señalizado dicho acceso. ¡SED PUNTUALES!
 
