@@ -14,6 +14,6 @@ image: /img/logoITClub.png
 ## El Club de Informática "Marcos Frechín" se reserva el derecho a moderar los comentarios y eliminarlos en caso de que incumplan las normas de uso:
 
 - En ningún caso se permitirá la publicación de contenidos que de forma manifiesta fomenten el odio, el desprecio o la discriminación por motivos de nacimiento, raza, sexo, religión, nacionalidad, opinión o cualquier otra circunstancia personal o social. Tampoco se tolerarán, en ningún caso, sea cual sea su fin, los intentos de suplantar la identidad de terceras personas ni la publicación de datos de contacto privados.
-- Tampoco se aprobarán mensajes que contengan publicidad, *'spam'* ni aquellos con enlaces a sitios que nada tengan que ver con el motivo de la conversación.
+- Tampoco se aprobarán mensajes que contengan publicidad o *'spam'*, ni aquellos con enlaces a sitios que nada tengan que ver con el motivo de la conversación.
 - No se permitirán comentarios con insultos, ofensivos, o contrarios a las leyes españolas.
 - Los mensajes de los usuarios no se corresponden necesariamente con la opinión del [Club de Informática "Marcos Frechín"](/) ni con la del CEIP "Marcos Frechín".
