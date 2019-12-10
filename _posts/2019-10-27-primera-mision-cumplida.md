@@ -2,10 +2,13 @@
 layout: post
 title: "Primer taller completado..."
 subtitle: "El Club de Informática está en marcha"
+description: "Resumen de la primera sesión del Club de Informática del Marcos Frechín"
 image: /img/workshops/1901/presentacion1.jpg
 author: "Sergio Castillo"
 hero_image: /img/workshops/1901/programming2.jpg
 show_sidebar: false
+published: true
+tags: stem stemeducation itclub
 ---
 
 Ya hemos arrancado las actividades del [Club de Informática "Marcos Frechín"](https://itclub.marcosfrechin.es/), juntando a 25 chicos y chicas de infantil y primaria, y a sus papis y mamis, en las instalaciones de nuestro cole.

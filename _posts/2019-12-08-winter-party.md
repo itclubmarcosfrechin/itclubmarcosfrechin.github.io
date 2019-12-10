@@ -7,9 +7,11 @@ image: /img/workshops/1912/gamer.jpg
 author: "Sergio Castillo"
 hero_image: /img/workshops/1912/gamer.jpg
 show_sidebar: false
+published: true
+tags: stem stemeducation itclub winter gaming party
 ---
 
-Tras un arranque *"espacial"* y un taller de programación muy divertido, queremos afontar el fin de año con una sesión más ligerilla, con el objetivo de conocernos mejor y recabar ideas que se puedan plasmar en los próximos talleres.
+Tras un [arranque *"espacial"*](/2019/10/27/primera-mision-cumplida/) y un [taller de programación muy divertido](/2019/12/01/hola-mundo/), queremos afontar el fin de año con una sesión más ligerilla, que tenga como objetivos conocernos mejor y recabar ideas que se puedan plasmar en los próximos talleres...
 
 ## Winter is coming (se acerca el invierno)...
 

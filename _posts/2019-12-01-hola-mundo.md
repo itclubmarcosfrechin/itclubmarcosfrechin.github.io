@@ -2,10 +2,13 @@
 layout: post
 title: "Hola mundo..."
 subtitle: "¡Ya somos programadores!"
+description: "Resumen del primer taller de programación de videojuegos con Scratch"
 image: /img/workshops/1911/900-final.jpg
 author: "Sergio Castillo"
 hero_image: /img/workshops/1911/203-taller.jpg
 show_sidebar: false
+published: true
+tags: stem stemeducation itclub programming scratch
 ---
 
 Viento en popa... así ha ido la segunda actividad del Club de Informática, nuestro primer taller de programación de videojuegos con Scratch. Hemos contado con 30 chavales y chavalas, y algunos de sus padres y madres. Los más peques han estado practicando lo más básico de la programación con robots educativos y se lo han pasado piruleta...

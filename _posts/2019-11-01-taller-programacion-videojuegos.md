@@ -2,13 +2,16 @@
 layout: post
 title: "Taller de programación de videojuegos"
 subtitle: "Sábado, 30 de Noviembre de 2019, de 11:30h a 13:00h"
+description: "Convocatoria del primer taller de programación de videojuegos con Scratch"
 image: /img/workshops/1911/arcadegames.png
 author: "Sergio Castillo"
 hero_image: /img/workshop.jpg
 show_sidebar: false
+published: true
+tags: stem stemeducation itclub programming scratch
 ---
 
-En este mes de noviembre, vamos a atacar uno de los pilares fundamentales de la informática, la programación. Esta disciplina es muy importante, porque casi todas las actividades que hagamos en el Club van a necesitar que programemos de una u otra manera... Aplicaciones, robots, controladores de sensores... todos necesitan una pizquilla de programación al menos.
+En este mes de noviembre, vamos a atacar uno de los pilares fundamentales de la informática, la programación. Esta disciplina es muy importante, porque casi todas las actividades que hagamos en el [Club](/) van a necesitar que programemos de una u otra manera... Aplicaciones, robots, controladores de sensores... todos necesitan una pizquilla de programación al menos.
 
 ## ¿Jugamos?
 
