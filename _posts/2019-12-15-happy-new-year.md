@@ -40,6 +40,4 @@ Punto final a un año 2019, en el que el [Club de Informática del CEIP "Marcos 
 
 ### Maqueen en acción
 
-<video width="640" height="480" controls>
-  <source type="video/mp4" src="https://itclub.marcosfrechin.es/img/workshops/1912/maqueen.mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s67FCYqihXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
