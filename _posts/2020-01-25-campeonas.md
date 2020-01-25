@@ -2,7 +2,7 @@
 layout: post
 title: "Campeonas"
 subtitle: "Mañana de sábado con Valeria y Patricia"
-description: "Proyectos STEAM explicados por Valeria y Patricia, una niña y su profesora, con el objetivo de que niños y niñas de todo el mundo (sobre todo niñas!!) puedan divertirse viendo vídeos de tecnología y encontrar inspiración y motivación para adentrarse en el mundo STEAM."
+description: "Hoy hemos disfrutado de ValPat.tech, Valeria y Patricia, una niña y su profesora, que con el objetivo de que niños y niñas (sobre todo niñas!!) puedan divertirse viendo vídeos de tecnología y encontrar inspiración y motivación para adentrarse en el mundo STEAM, se han acercado hasta nuestro cole a dedicarnos un taller interesantísimo."
 image: /img/workshops/2001/techgirls.jpg
 author: "Sergio Castillo"
 hero_image: /img/workshops/2001/ValPatWorkShop.jpg
