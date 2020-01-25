@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Campeonas"
+subtitle: "Mañana de sábado con Valeria y Patricia"
+description: "Proyectos STEAM explicados por Valeria y Patricia, una niña y su profesora, con el objetivo de que niños y niñas de todo el mundo (sobre todo niñas!!) puedan divertirse viendo vídeos de tecnología y encontrar inspiración y motivación para adentrarse en el mundo STEAM."
+image: /img/workshops/2001/valpat02.jpg
+author: "Sergio Castillo"
+hero_image: /img/workshops/2001/ValPatWorkShop.jpg
+show_sidebar: false
+published: true
+tags: stem stemeducation itclub valpat steam
+---
+
+Ha sido una mañana de sábado épica... El paso de <a href="https://www.valpat.tech/" target="_blank">ValPat</a> por el [Club de Informática Marcos Frechín](/) nos ha dejado ojiplátic@s... Aquí van algunas impresiones y fotos de lo que se ha vivido en este taller magistral. ¡La de ideas que nos han dado para próximos talleres!
+
+## Valeria y Patricia, las dos *"tech-girls"* que han hipnotizado a 50 niños y niñas en el Marcos Frechín
+
+![Valeria y Patricia](/img/workshops/2001/techgirls.jpg)
+
+Ya sabíamos que que no nos podíamos perder este evento, pero el resultado ha superado ampliamente las expectativas... ¡Hay que ver lo que da de sí una hora y media para conocer proyectos tecnológicos!, y lo mejor de todo es que Valeria y Patricia han demostrado que las chicas pueden dominar estos temas como nadie. Nos han hipnotizado... Se nos ha pasado el tiempo volando escuchándolas, viendo sus proyectos en directo y los videos de su canal... La de niños y niñas que habrá hoy en sus casas pidiendo a sus papás y mamás aprender a hacer cosas como las que hemos podido ver, ¿a que sí?.
+
+Pues aquí tenéis el canal de youtube ValPat, para seguir viendo sus vídeos desde casa y seguir aprendiendo de ellas. Id cogiendo ideas, porque las pondremos en práctica (pulsad en la imagen para acceder, <a href="https://www.youtube.com/channel/UCFvnZUk_G-oF3y4VjY0tbHQ" target="_blank">o en este enlace</a>)...
+
+<a href="https://www.youtube.com/channel/UCFvnZUk_G-oF3y4VjY0tbHQ" target="_blank">
+    <img src="../img/workshops/2001/valpatLogo.png" alt="VALPAT STEAM Channel" style="display: block; margin-left: auto; margin-right:auto" />
+</a>
+
+Y por si fuera poco, **<a href="https://www.heraldo.es/noticias/aragon/zaragoza/2020/01/24/la-robotica-llega-al-colegio-marcos-fechin-gracias-al-altruismo-de-varios-padres-1354910.html" target="_blank">nos han dedicado un estupendo reportaje en las páginas del Heraldo de Aragón</a>**, ¿qué más podemos pedir?
+
+![Reportaje Heraldo de Aragón](/img/workshops/2001/reportaje.jpg)
+
+## Galería de fotos del taller
+
+![Taller ValPat](/img/workshops/2001/001.jpg)
+![Taller ValPat](/img/workshops/2001/002.jpg)
+![Taller ValPat](/img/workshops/2001/003.jpg)
+![Taller ValPat](/img/workshops/2001/004.jpg)
+![Taller ValPat](/img/workshops/2001/005.jpg)
+![Taller ValPat](/img/workshops/2001/006.jpg)
+![Taller ValPat](/img/workshops/2001/007.jpg)
+![Taller ValPat](/img/workshops/2001/008.jpg)
+![Taller ValPat](/img/workshops/2001/009.jpg)
+![Taller ValPat](/img/workshops/2001/010.jpg)
+
