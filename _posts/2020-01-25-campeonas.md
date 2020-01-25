@@ -24,7 +24,7 @@ Gracias a las dos (y a vuestras familias) por venir hasta nuestro cole desde Hue
 Pues aquí tenéis el canal de youtube ValPat, para seguir viendo sus vídeos desde casa y seguir aprendiendo de ellas. Id cogiendo ideas, porque las pondremos en práctica (pulsad en la imagen para acceder, <a href="https://www.youtube.com/channel/UCFvnZUk_G-oF3y4VjY0tbHQ" target="_blank">o en este enlace</a>)...
 
 <a href="https://www.youtube.com/channel/UCFvnZUk_G-oF3y4VjY0tbHQ" target="_blank">
-    <img src="../img/workshops/2001/valpatLogo.png" alt="VALPAT STEAM Channel" style="display: block; margin-left: auto; margin-right:auto" />
+    <img src="/img/workshops/2001/valpatLogo.png" alt="VALPAT STEAM Channel" style="display: block; margin-left: auto; margin-right:auto" />
 </a>
 
 Y por si fuera poco, **<a href="https://www.heraldo.es/noticias/aragon/zaragoza/2020/01/24/la-robotica-llega-al-colegio-marcos-fechin-gracias-al-altruismo-de-varios-padres-1354910.html" target="_blank">nos han dedicado un estupendo reportaje en las páginas del Heraldo de Aragón</a>**, ¿qué más podemos pedir?
