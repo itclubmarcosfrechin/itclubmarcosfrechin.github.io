@@ -17,15 +17,15 @@ Ha sido una mañana de sábado épica... El paso de <a href="https://www.valpat.
 
 ![Valeria y Patricia](/img/workshops/2001/techgirls.jpg)
 
-Ya sabíamos que que no nos podíamos perder este evento, pero el resultado ha superado ampliamente las expectativas... ¡Hay que ver lo que da de sí una hora y media para conocer proyectos tecnológicos!, y lo mejor de todo es que Valeria y Patricia han demostrado que las chicas pueden dominar estos temas como nadie. Nos han hipnotizado... Se nos ha pasado el tiempo volando escuchándolas, viendo sus proyectos en directo y los videos de su canal... La de niños y niñas que habrá hoy en sus casas pidiendo a sus papás y mamás aprender a hacer cosas como las que hemos podido ver, ¿a que sí?.
-
-Gracias a las dos (y a vuestras familias) por venir hasta nuestro cole desde Huesca, en un día nada apetecible por la lluvia, para hacernos un poquito más felices. Esperamos que mantengáis ese espíritu científico siempre vivo, sobre todo tú, Valeria, que tienes un futuro increíble por delante. Puedes conseguir todo lo que te propongas.
+Ya sabíamos que que no nos podíamos perder este evento, pero el resultado ha superado ampliamente las expectativas... ¡Hay que ver lo que da de sí una hora y media para conocer proyectos tecnológicos!, y lo mejor de todo es que Valeria y Patricia han demostrado que las chicas pueden dominar estos temas como nadie. Nos han hipnotizado... Se nos ha pasado el tiempo volando escuchándolas, viendo sus proyectos en directo y los videos de su canal... La de niños y niñas que habrá hoy en sus casas pidiendo a sus papás y mamás aprender a hacer cosas como las que hemos podido ver, ¿a que sí?. 
 
 Pues aquí tenéis el canal de youtube ValPat, para seguir viendo sus vídeos desde casa y seguir aprendiendo de ellas. Id cogiendo ideas, porque las pondremos en práctica (pulsad en la imagen para acceder, <a href="https://www.youtube.com/channel/UCFvnZUk_G-oF3y4VjY0tbHQ" target="_blank">o en este enlace</a>)...
 
 <a href="https://www.youtube.com/channel/UCFvnZUk_G-oF3y4VjY0tbHQ" target="_blank">
     <img src="/img/workshops/2001/valpatLogo.png" alt="VALPAT STEAM Channel" style="display: block; margin-left: auto; margin-right:auto" />
 </a>
+
+Gracias a las dos (y a vuestras familias) por venir hasta nuestro cole desde Huesca, en un día nada apetecible por la lluvia, para hacernos un poquito más felices. Esperamos que mantengáis ese espíritu científico siempre vivo, sobre todo tú, Valeria, que tienes un futuro increíble por delante. Puedes conseguir todo lo que te propongas.
 
 Y por si fuera poco, **<a href="https://www.heraldo.es/noticias/aragon/zaragoza/2020/01/24/la-robotica-llega-al-colegio-marcos-fechin-gracias-al-altruismo-de-varios-padres-1354910.html" target="_blank">nos han dedicado un estupendo reportaje en las páginas del Heraldo de Aragón</a>**, ¿qué más podemos pedir?
 
