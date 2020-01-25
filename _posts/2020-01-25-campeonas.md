@@ -19,6 +19,8 @@ Ha sido una mañana de sábado épica... El paso de <a href="https://www.valpat.
 
 Ya sabíamos que que no nos podíamos perder este evento, pero el resultado ha superado ampliamente las expectativas... ¡Hay que ver lo que da de sí una hora y media para conocer proyectos tecnológicos!, y lo mejor de todo es que Valeria y Patricia han demostrado que las chicas pueden dominar estos temas como nadie. Nos han hipnotizado... Se nos ha pasado el tiempo volando escuchándolas, viendo sus proyectos en directo y los videos de su canal... La de niños y niñas que habrá hoy en sus casas pidiendo a sus papás y mamás aprender a hacer cosas como las que hemos podido ver, ¿a que sí?.
 
+Gracias a las dos (y a vuestras familias) por venir hasta nuestro cole desde Huesca, en un día nada apetecible por la lluvia, para hacernos un poquito más felices. Esperamos que mantengáis ese espíritu científico siempre vivo, sobre todo tú, Valeria, que tienes un futuro increíble por delante. Puedes conseguir todo lo que te propongas.
+
 Pues aquí tenéis el canal de youtube ValPat, para seguir viendo sus vídeos desde casa y seguir aprendiendo de ellas. Id cogiendo ideas, porque las pondremos en práctica (pulsad en la imagen para acceder, <a href="https://www.youtube.com/channel/UCFvnZUk_G-oF3y4VjY0tbHQ" target="_blank">o en este enlace</a>)...
 
 <a href="https://www.youtube.com/channel/UCFvnZUk_G-oF3y4VjY0tbHQ" target="_blank">
@@ -42,3 +44,8 @@ Y por si fuera poco, **<a href="https://www.heraldo.es/noticias/aragon/zaragoza/
 ![Taller ValPat](/img/workshops/2001/009.jpg)
 ![Taller ValPat](/img/workshops/2001/010.jpg)
 
+Gracias a <a href="https://twitter.com/vronikrr" target="_blank">Verónica Rivas</a>, nuestra tenaz reportera gráfica, por casi todas las fotos que hemos publicado.
+
+Y gracias también a María Sanjuán, la profe de Infantil del Marcos Frechín que, además de venir con su peque a participar en los talleres, siempre nos echa una mano con los más pequeñines del Club, lo que nos permite llegar a todos los demás.
+
+¡Las dos son unas colaboradoras de primera! **MUCHAS GRACIAS**.
