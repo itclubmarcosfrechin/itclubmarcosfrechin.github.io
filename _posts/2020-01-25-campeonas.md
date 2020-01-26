@@ -32,17 +32,20 @@ Y por si fuera poco, **<a href="https://www.heraldo.es/noticias/aragon/zaragoza/
 ![Reportaje Heraldo de Aragón](/img/workshops/2001/reportaje.jpg)
 
 ## Galería de fotos del taller
-
-![Taller ValPat](/img/workshops/2001/001.jpg)
-![Taller ValPat](/img/workshops/2001/002.jpg)
-![Taller ValPat](/img/workshops/2001/003.jpg)
-![Taller ValPat](/img/workshops/2001/004.jpg)
-![Taller ValPat](/img/workshops/2001/005.jpg)
-![Taller ValPat](/img/workshops/2001/006.jpg)
-![Taller ValPat](/img/workshops/2001/007.jpg)
-![Taller ValPat](/img/workshops/2001/008.jpg)
-![Taller ValPat](/img/workshops/2001/009.jpg)
-![Taller ValPat](/img/workshops/2001/010.jpg)
+<div class="columns is-centered">
+    <div class="column is-full">
+        ![Taller ValPat](/img/workshops/2001/001.jpg)
+        ![Taller ValPat](/img/workshops/2001/002.jpg)
+        ![Taller ValPat](/img/workshops/2001/003.jpg)
+        ![Taller ValPat](/img/workshops/2001/004.jpg)
+        ![Taller ValPat](/img/workshops/2001/005.jpg)
+        ![Taller ValPat](/img/workshops/2001/006.jpg)
+        ![Taller ValPat](/img/workshops/2001/007.jpg)
+        ![Taller ValPat](/img/workshops/2001/008.jpg)
+        ![Taller ValPat](/img/workshops/2001/009.jpg)
+        ![Taller ValPat](/img/workshops/2001/010.jpg)
+    </div>
+</div>
 
 Gracias a <a href="https://twitter.com/vronikrr" target="_blank">Verónica Rivas</a>, nuestra tenaz reportera gráfica, por casi todas las fotos que hemos publicado.
 
