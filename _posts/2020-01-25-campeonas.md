@@ -34,16 +34,16 @@ Y por si fuera poco, **<a href="https://www.heraldo.es/noticias/aragon/zaragoza/
 ## Galería de fotos del taller
 <div class="columns is-centered">
     <div class="column is-full">
-        ![Taller ValPat](/img/workshops/2001/001.jpg)
-        ![Taller ValPat](/img/workshops/2001/002.jpg)
-        ![Taller ValPat](/img/workshops/2001/003.jpg)
-        ![Taller ValPat](/img/workshops/2001/004.jpg)
-        ![Taller ValPat](/img/workshops/2001/005.jpg)
-        ![Taller ValPat](/img/workshops/2001/006.jpg)
-        ![Taller ValPat](/img/workshops/2001/007.jpg)
-        ![Taller ValPat](/img/workshops/2001/008.jpg)
-        ![Taller ValPat](/img/workshops/2001/009.jpg)
-        ![Taller ValPat](/img/workshops/2001/010.jpg)
+        <img src="/img/workshops/2001/001.jpg" alt="Taller ValPat" />
+        <img src="/img/workshops/2001/002.jpg" alt="Taller ValPat" />
+        <img src="/img/workshops/2001/003.jpg" alt="Taller ValPat" />
+        <img src="/img/workshops/2001/004.jpg" alt="Taller ValPat" />
+        <img src="/img/workshops/2001/005.jpg" alt="Taller ValPat" />
+        <img src="/img/workshops/2001/006.jpg" alt="Taller ValPat" />
+        <img src="/img/workshops/2001/007.jpg" alt="Taller ValPat" />
+        <img src="/img/workshops/2001/008.jpg" alt="Taller ValPat" />
+        <img src="/img/workshops/2001/009.jpg" alt="Taller ValPat" />
+        <img src="/img/workshops/2001/010.jpg" alt="Taller ValPat" />
     </div>
 </div>
 
