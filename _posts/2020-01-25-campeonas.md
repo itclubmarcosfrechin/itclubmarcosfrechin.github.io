@@ -42,8 +42,7 @@ Y por si fuera poco, **<a href="https://www.heraldo.es/noticias/aragon/zaragoza/
 <img class="photo" src="/img/workshops/2001/007.jpg" alt="Taller ValPat" /><br />
 <img class="photo" src="/img/workshops/2001/008.jpg" alt="Taller ValPat" /><br />
 <img class="photo" src="/img/workshops/2001/009.jpg" alt="Taller ValPat" /><br />
-<img class="photo" src="/img/workshops/2001/010.jpg" alt="Taller ValPat" /><br />
-
+<img class="photo" src="/img/workshops/2001/010.jpg" alt="Taller ValPat" />
 
 Gracias a <a href="https://twitter.com/vronikrr" target="_blank">Verónica Rivas</a>, nuestra tenaz reportera gráfica, por casi todas las fotos que hemos publicado.
 
