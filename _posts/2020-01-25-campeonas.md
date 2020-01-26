@@ -48,8 +48,6 @@ Gracias a <a href="https://twitter.com/vronikrr" target="_blank">Verónica Rivas
 
 Y gracias también a María Sanjuán, la profe de Infantil del Marcos Frechín que, además de venir con su peque a participar en los talleres, siempre nos echa una mano con los más pequeñines del Club, lo que nos permite llegar a todos los demás. Ella nos ha cedido también este video tan chulo con más puntos de vista de este estupendo taller:
 
-<iframe src="https://gopro.com/v/o6059KkLbvkew/" width="640" height="360" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true"></iframe>
-
-<iframe width="640" height="480" src="https://gopro.com/v/o6059KkLbvkew/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://gopro.com/v/o6059KkLbvkew/" width="640" height="640" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true"></iframe>
 
 ¡Las dos son unas colaboradoras de primera! **MUCHAS GRACIAS**.
