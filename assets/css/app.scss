@@ -69,3 +69,25 @@ $primary: #007FFE;
     text-decoration:none;
     color:#000000;
 }
+
+.video {
+    width: 100%;
+}
+
+@media (max-width: 600px) {
+    .video {
+        height: 300px;
+    }
+}
+
+@media (max-width: 900px) {
+    .video {
+        height: 480;
+    }
+}
+
+@media (max-width: 4000px) {
+    .video {
+        height: 800;
+    }
+}
