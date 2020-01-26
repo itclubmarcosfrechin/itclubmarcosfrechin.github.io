@@ -50,4 +50,6 @@ Y gracias también a María Sanjuán, la profe de Infantil del Marcos Frechín q
 
 <iframe src="https://gopro.com/v/o6059KkLbvkew/" width="640" height="360" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true"></iframe>
 
+<iframe width="640" height="480" src="https://gopro.com/v/o6059KkLbvkew/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ¡Las dos son unas colaboradoras de primera! **MUCHAS GRACIAS**.
