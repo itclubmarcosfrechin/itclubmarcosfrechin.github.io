@@ -21,9 +21,9 @@ Nos gusta pensar en robótica como una realidad que ayuda a las personas en el d
 
 ## Galería de fotos del taller
 
-<img class="photo" src="/img/workshops/2002/mulan000.jpg" alt="Taller Mulán" /><br />
 <img class="photo" src="/img/workshops/2002/mulan001.jpg" alt="Taller Mulán" /><br />
 <img class="photo" src="/img/workshops/2002/mulan002.jpg" alt="Taller Mulán" /><br />
+<img class="photo" src="/img/workshops/2002/taller000.jpg" alt="Taller Mulán" /><br />
 <img class="photo" src="/img/workshops/2002/taller001.jpg" alt="Taller Mulán" /><br />
 <img class="photo" src="/img/workshops/2002/taller002.jpg" alt="Taller Mulán" /><br />
 <img class="photo" src="/img/workshops/2002/taller003.jpg" alt="Taller Mulán" /><br />
