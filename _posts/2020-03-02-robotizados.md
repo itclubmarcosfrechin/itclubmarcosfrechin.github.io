@@ -3,7 +3,7 @@ layout: post
 title: "Robotizados"
 subtitle: "Nuestra nueva amiga Mulán"
 description: "Hoy hemos disfrutado de nuestra nueva amiga Mulán, una camarera robótica muy hospitalaria que ayuda a sus compañeros con los trabajos más pesados."
-image: /img/workshops/2001/techgirls.jpg
+image: /img/workshops/2002/taller002.jpg
 author: "Sergio Castillo"
 hero_image: /img/workshops/2002/r3i2855.jpg
 show_sidebar: false
