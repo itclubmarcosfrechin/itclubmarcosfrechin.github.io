@@ -16,7 +16,6 @@ Este ha sido nuestro primer taller fuera de las instalaciones del cole, en concr
 ## Mulán, una camarera robótica con mucha gracia
 
 No hay otra como ella en Zaragoza, al menos de momento, y según nos ha relatado Carlos Chavarría, el encargado del <a href="https://g.page/cafeteriayrestaurante?share" target="_blank">Restaurante Atrapasueños (Tomás Bretón 4, Zaragoza (España)</a>, ha costado noches sin dormir prepararla para que haga su trabajo. No hay programadores de robots como este en Zaragoza, así que han tenido que contactar con empresas chinas, el lugar donde fabricaron a Mulán, donde los robots como ella son mucho más habituales, además de ser el país de origen de Cristian Yang, el propietario de Restaurante, que ha impulsado la llegada de Mulán a Zaragoza... El esfuerzo ha merecido la pena, Mulán se pasea con gracia electrónica por el local, cargando una pila de platos sucios enorme a la cocina, o sirviendo platos en las mesas, y cuando se encuentra de frente con alguien, se para y le pide educadamente que se aparte, ¡en chino y en español!... :-P
-</div>
 
 <div class="columns is-centered">
     <div class="column is-four-fifths">
