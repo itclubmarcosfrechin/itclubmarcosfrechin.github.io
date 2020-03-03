@@ -20,7 +20,7 @@ No hay otra como ella en Zaragoza, al menos de momento, y según nos ha relatado
 
 <div class="columns is-centered">
     <div class="column is-four-fifths">
-        <iframe class="video" src="https://www.youtube.com/embed/s67FCYqihXE/" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true"></iframe>
+        <iframe class="video" src="https://www.youtube.com/embed/ofuc6RLwRRs/" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true"></iframe>
     </div>
 </div>
 
