@@ -3,9 +3,9 @@ layout: post
 title: "ITClub Reset"
 subtitle: "Reiniciando el sistema..."
 description: "Ha llegado el momento de volver a vernos en el CLub de Informática del Marcos Frechín."
-image: /img/workshops/2210/restarting.jpg
+image: /img/workshops/2210/restarting.png
 author: "Sergio Castillo"
-hero_image: /img/workshops/2210/restarting.jpeg
+hero_image: /img/workshops/2210/restarting.png
 show_sidebar: false
 published: true
 tags: stem stemeducation itclub robotics engineering
