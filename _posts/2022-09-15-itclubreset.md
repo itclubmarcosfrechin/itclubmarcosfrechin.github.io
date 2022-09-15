@@ -15,7 +15,7 @@ Tras dos años de pandemia, es el momento de volver a encender las luces del [Cl
 
 ## Reiniciando el sistema
 
-> **¡IMPORTANTE! Papás, si queréis traer a vuestros hijos al taller, por favor, inscribidlos aquí:** <a href="https://forms.gle/vaNAyv4WhLwdfvfH8" target="_blank">Formulario de inscripción</a>
+> **¡IMPORTANTE! Papás y mamás, si queréis traer a vuestros hijos al taller, por favor, inscribidlos aquí:** <a href="https://forms.gle/vaNAyv4WhLwdfvfH8" target="_blank">Formulario de inscripción</a>
 
 <img class="photo" src="/img/workshops/2210/restarting.jpg" alt="Reiniciando el sistema" style="float: right; margin-left: 20px; margin-right: 20px" />
 
