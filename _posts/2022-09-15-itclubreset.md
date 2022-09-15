@@ -17,7 +17,7 @@ Tras dos años de pandemia, es el momento de volver a encender las luces del [Cl
 
 > **¡IMPORTANTE! Papás, si queréis traer a vuestros hijos al taller, por favor, inscribidlos aquí:** <a href="https://forms.gle/vaNAyv4WhLwdfvfH8" target="_blank">Formulario de inscripción</a>
 
-<img class="photo" src="/img/workshops/2210/restarting.jpg" alt="Reiniciando el sistema" style="float: right" />
+<img class="photo" src="/img/workshops/2210/restarting.jpg" alt="Reiniciando el sistema" style="float: right; margin-left: 20px; margin-right: 20px" />
 
 En Marzo de 2020 se paró el mundo tal y como lo conocíamos... Nos encerramos en nuestras casas, nos protegimos del maldito COVID 19, dejamos de ir al cole, muchos papás y mamás tuvieron incluso que dejar de trabajar, porque había que proteger a las personas vulnerables... Pero ¿sabéis qué es lo que no paró en ningún momento? La informática... Todos los que nos dedicamos a esto seguimos trabajando desde nuestras casas, con un ordenador podíamos hablar con nuestros abuelos o nuestros tíos, con nuestros profesores, hasta con nuestros médicos!!! Gracias a internet nos mantuvimos en contacto y supimos lo que estaba pasando fuera, algunas empresas importantes,  pudieron seguir funcionando, para que no nos faltara de nada... 
 
