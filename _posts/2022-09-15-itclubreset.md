@@ -27,6 +27,10 @@ Ah, y ¿alguno se acuerda de quién vino a ayudarnos en el primer taller que rea
 
 ![Legion 501](/img/accessControl.jpg)
 
+## ¿Cuando y dónde?
+
+El sábado 1 de octubre de 2022, en el CEIP Marcos Frechín, de Zaragoza
+
 ## ¿Cómo llegar?
 
 **El acceso al taller tendrá lugar por la puerta principal del centro, en C/ Doctor Iranzo, s/n, 50013 Zaragoza.**. Os dejamos un croquis en el que está señalizado dicho acceso.
