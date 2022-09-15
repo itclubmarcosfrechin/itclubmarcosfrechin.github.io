@@ -2,7 +2,7 @@
 layout: post
 title: "ITClub Reset"
 subtitle: "Reiniciando el sistema..."
-description: "Ha llegado el momento de volver a vernos en el CLub de Informática del Marcos Frechín."
+description: "Ha llegado el momento de volver a vernos en el Club de Informática del Marcos Frechín."
 image: /img/workshops/2210/restarting.png
 author: "Sergio Castillo"
 hero_image: /img/workshop.jpg
