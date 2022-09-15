@@ -11,7 +11,7 @@ published: true
 tags: stem stemeducation itclub robotics engineering
 ---
 
-Tras dos años de pandemia, es el momento de volver a encender las luces del [Club de Informática](/) ¿no os parece?. Vamos a reiniciarlo, volvemos desde el futuro para contaros qué es la informática y la robótica, para qué sirve y cómo ahora la podemos encontrar hasta en nuestras muñecas, en nuestros coches, y en los dispositivos más insospechados... También hay que tener cuidado con ella, con lo que hacemos en internet, con lo que compartimos a través de medios digitales... Y vamos a divertirnos, con juegos y tareas informáticas y montando y desmontando cachivaches que funcionan con un procesador.
+Tras dos años de pandemia, es el momento de volver a encender las luces del [Club de Informática](/) ¿no os parece?. Vamos a reiniciarlo, volvemos desde el futuro para contaros qué es la informática y la robótica, para qué sirve y cómo ahora la podemos encontrar hasta en nuestras muñecas, en nuestros coches, y en los dispositivos más insospechados... También hay que tener cuidado con ella, con lo que hacemos en internet, con lo que compartimos a través de medios digitales... Y vamos a divertirnos, con juegos y tareas informáticas y montando y desmontando cachivaches que funcionan con un procesador. Será el **sábado, 1 de octubre de 2022, en el CEIP Marcos Frechín, de Zaragoza**.
 
 ## Reiniciando el sistema
 
@@ -26,10 +26,6 @@ El [Club de Informática](/) estuvo funcionando hasta Marzo de 2020, y luego par
 Ah, y ¿alguno se acuerda de quién vino a ayudarnos en el primer taller que realizamos en el club de informática?... Pues también han vuelto, estarán los chicos y chicas de la [Legion 501](https://www.legion501.com/), con sus personajes de Star Wars... ¿No te lo irás a perder no?
 
 ![Legion 501](/img/accessControl.jpg)
-
-## ¿Cuando y dónde?
-
-El sábado 1 de octubre de 2022, en el CEIP Marcos Frechín, de Zaragoza
 
 ## ¿Cómo llegar?
 
