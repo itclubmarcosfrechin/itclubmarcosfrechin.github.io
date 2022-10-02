@@ -11,13 +11,13 @@ published: true
 tags: stem stemeducation itclub robotics engineering
 ---
 
-Todo vuelve a funcionar, nos ha costado un poco salir de las sombras del COVID, pero las máquinas vuelven a estar encendidas y a plena potencia. Gracias a nuestros amig@s del Squad Cierzo de la Legion 501, que nos acompañaron como aquella vez en 2019, en una galaxía muy, muy lejana...
+Todo vuelve a funcionar, nos ha costado un poco salir de las sombras del COVID, pero las máquinas vuelven a estar encendidas y a plena potencia. Gracias a nuestros amig@s del <a src="https://www.facebook.com/squadcierzo/" target="_blank">Squad Cierzo de la Legion 501</a>, que nos acompañaron como aquella vez en 2019, en una galaxía muy, muy lejana...
 
 ## System online
 
-Pues así es, misión cumplida, el sistema se ha reiniciado, y la diversión tecnológica ha vuelto al Frechín. 
+Pues así es, misión cumplida, el sistema se ha reiniciado, y la diversión tecnológica ha vuelto al Frechín, con el [Club de Informática](/)
 
-La verdad es que resultó una mañana chulísima, llenamos la biblioteca del Frechín de entusiasmo, y pudimos palpar la tecnología con nuesras propias manos, podéis juzgarlo por vosotros mismos:
+La verdad es que resultó una mañana chulísima, llenamos la biblioteca del cole de entusiasmo, y pudimos palpar la tecnología con nuestras propias manos, podéis juzgarlo por vosotros mismos:
 
 ## Bienvenida al club, con nuestros amigos del Squad Cierzo
 ![Bienvenida de nuestros amigos del Squad Cierzo](/img/workshops/2210/000.1.jpeg)
