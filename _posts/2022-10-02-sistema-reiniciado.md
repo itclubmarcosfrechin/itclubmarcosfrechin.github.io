@@ -47,11 +47,7 @@ La verdad es que resultó una mañana chulísima, llenamos la biblioteca del Fre
 
 ## Vídeo
 Gracias a la profe María Sanjuán, por acompañarnos y prepararnos uno de esos vídeos tan chulos que edita... 
-<div class="columns is-centered">
-    <div class="column is-four-fifths">
-        <iframe src="https://www.youtube.com/embed/Zx6uoyWRrnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-</div>
+<iframe src="https://www.youtube.com/embed/Zx6uoyWRrnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Más información y enlaces
 
