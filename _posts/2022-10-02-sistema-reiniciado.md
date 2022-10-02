@@ -11,7 +11,7 @@ published: true
 tags: stem stemeducation itclub robotics engineering
 ---
 
-Todo vuelve a funcionar, nos ha costado un poco salir de las sombras del COVID, pero las máquinas vuelven a estar encendidas y a plena potencia. Gracias a nuestros amig@s del <a src="https://www.facebook.com/squadcierzo/" target="_blank">Squad Cierzo de la Legion 501</a>, que nos acompañaron como aquella vez en 2019, en una galaxía muy, muy lejana...
+Todo vuelve a funcionar, nos ha costado un poco salir de las sombras del COVID, pero las máquinas vuelven a estar encendidas y a plena potencia. Gracias a nuestros amig@s del <a href="https://www.facebook.com/squadcierzo/" target="_blank">Squad Cierzo de la Legion 501</a>, que nos acompañaron como aquella vez en 2019, en una galaxía muy, muy lejana...
 
 ## System online
 
