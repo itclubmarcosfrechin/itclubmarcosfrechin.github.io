@@ -15,7 +15,7 @@ Todo vuelve a funcionar, nos ha costado un poco salir de las sombras del COVID, 
 
 ## System online
 
-Pues así es, misión cumplida, el sistema se ha reiniciado, y la diversión tecnológica ha vuelto al Frechín, con el [Club de Informática](/)
+Pues así es, misión cumplida, el sistema se ha reiniciado, y la diversión tecnológica ha vuelto al Frechín, con el [Club de Informática](/).
 
 La verdad es que resultó una mañana chulísima, llenamos la biblioteca del cole de entusiasmo, y pudimos palpar la tecnología con nuestras propias manos, podéis juzgarlo por vosotros mismos:
 
