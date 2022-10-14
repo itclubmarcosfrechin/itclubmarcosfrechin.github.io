@@ -9,19 +9,29 @@ image: /img/logoITClub.png
 
 ¡Hola!
 
-Somos el **Club de Informática** del [Colegio de Educación Infantil y Primaria "Marcos Frechín"](http://ceipmarcosfrechin.catedu.es/) en Las Fuentes, *Zaragoza*.
+Somos el **Club de Informática** del <a href="http://ceipmarcosfrechin.catedu.es/" taget="_blank">Colegio de Educación Infantil y Primaria "Marcos Frechín"</a> en Las Fuentes, *Zaragoza*.
 
-Nuestra idea es reunir a niños y niñas (y a los padres y madres que quieran acompañarlos) para realizar distintos proyectos relacionados con la informática, la robótica, y la electrónica básica, mediante dinámicas y tareas divertidas y didácticas, en el que puedan experimentar con sus propias manos y su propia mente los problemas que se resuelven mediante las tecnologías de la información y qué aplicaciones tienen en el mundo real.
+Nuestra idea es reunir a niños y niñas (y a los padres y madres, tutores y profesores que quieran acompañarlos) para realizar distintos proyectos relacionados con la informática, la robótica, y la electrónica básica, mediante dinámicas y tareas divertidas y didácticas, en el que puedan experimentar con sus propias manos y su propia mente los problemas que se resuelven mediante las tecnologías de la información y qué aplicaciones tienen en el mundo real.
 
-La actividad presencial del club tendrá una periodicidad mensual, el último sábado de cada mes, y se están diseñando distintos canales de comunicación asociados al club, como esta web y presencia en redes sociales, a través de los cuales mantener la comunicación con los interesados, y hacerles llegar material de estudio, práctica y preparación de las actividades presenciales. 
+La actividad presencial del club tendrá una periodicidad mensual, un sábado de cada mes, y disponemos de distintos canales de comunicación asociados al club, como esta web y presencia en redes sociales, a través de los cuales mantener la comunicación con los interesados, y hacerles llegar la convocatoria a los talleres, material de estudio, práctica y preparación de las actividades presenciales. Aunque el club nace en nuestro cole, el CEIP Marcos Frechín de Zaragoza, **nuestros talleres están abiertos a niñas, niños, madres, padres, tutores y profesores de cualquier lugar desde el que puedan desplazarse hasta nuestras instalaciones. No es necesario que sean alumnos de nuestro cole, y estaremos encantados de recibirles y hacernos amigos, eso siempre es divertido**.
 
-Esta iniciativa nace desde varios padres y madres de niñas del cole:
+Esta iniciativa surge desde varios madres y padres de niñas del cole, que formamos parte de la <a href="https://ampa.marcosfrechin.es" taget="_blank">AMPA del colegio</a>:
 
 - **Beatriz** ha impartido clases de informática y robótica tanto regulares como extraescolares a niños de primaria, así como clases de apoyo para asignaturas de programación de distintas carreras universitarias. Ahora trabaja como técnica de soporte de software para empresas, y como reclutadora de personal técnico.
 - **Sergio** se dedica al desarrollo de software para empresas desde hace casi 20 años, y también ha dado clases de programación a distintos niveles.
 - **Daniel** es Ingeniero Electrónico y se dedica al diseño y desarrollo de sistemas de control de maquinaria.
 
 Nos gustaría aportar nuestra experiencia y conocimientos combinados para acercar las tecnologías de la información y la robótica a la educación de los niños y niñas, considerando que su inserción desde niveles iniciales proporciona conocimientos que permiten acceder a profesiones de futuro, en un sector en el que actualmente apenas existe paro y además promueve en ellos el pensamiento lógico y computacional, muy valorado en todas las etapas de su desarrollo.
+
+Tenemos muy claros unos cuantos principios:
+
+- El sector informático es uno de los que más oportunidades profesionales está ofreciendo, apenas existe paro en el mismo, y la demanda de profesionales es muy superior a la capacidad formativa para generar nuevos técnicos e ingenieros.
+
+- Sabemos que las empresas IT están teniendo muchas dificultades para captar, cultivar y retener talento en sus plantillas, y eso reduce la capacidad para gestionar y llevar a cabo proyectos.
+
+- También sabemos que aunque la informática se ha democratizado mucho en los últimos tiempos, siguen existiendo varios colectivos poco representados, que si trabajamos con ellos, podrían mejorar la situación del punto anterior. 
+   - La presencia de la mujer es muy pequeña respecto al total de profesionales del sector, no es muy explicable, pero a estas alturas del siglo XXI todavía parece que la tecnología es sólo cosa de varones. Desde el club estamos haciendo un esfuerzo especial para acercarnos a las niñas e interesarlas en el mundo de la informática y la robótica.
+   - Los colectivos con menor poder adquisitivo tienen más complicado el acceso a recursos de aprendizaje sobre estos temas a edades tempranas, los recursos y materiales son caros y complejos... Realizamos los talleres del club de forma desinteresada, sólo pedimos 1 euro simbólico por niño/a y taller, que reinvertimos por completo en material y servicios.
 
 ## Si quieres, puedes seguirnos en redes sociales
 
