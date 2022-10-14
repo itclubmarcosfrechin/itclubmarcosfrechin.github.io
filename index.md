@@ -23,6 +23,8 @@ Esta iniciativa surge desde varios madres y padres de niñas del cole, que forma
 
 Nos gustaría aportar nuestra experiencia y conocimientos combinados para acercar las tecnologías de la información y la robótica a la educación de los niños y niñas, considerando que su inserción desde niveles iniciales proporciona conocimientos que permiten acceder a profesiones de futuro, en un sector en el que actualmente apenas existe paro y además promueve en ellos el pensamiento lógico y computacional, muy valorado en todas las etapas de su desarrollo.
 
+## ¿Y por qué hacemos esto?
+
 Tenemos muy claros unos cuantos principios:
 
 - El sector informático es uno de los que más oportunidades profesionales está ofreciendo, apenas existe paro en el mismo, y la demanda de profesionales es muy superior a la capacidad formativa para generar nuevos técnicos e ingenieros.
