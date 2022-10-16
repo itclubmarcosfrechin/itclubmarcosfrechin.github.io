@@ -1,5 +1,7 @@
 - name: Noticias
   link: /blog/
+- name: Patrocinadores
+  link: /sponsorship
 - name: Materiales
   link: /docs/
   dropdown:

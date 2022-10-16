@@ -1,0 +1,24 @@
+---
+title: ¿Nos echas una mano?
+layout: page
+show_sidebar: true
+image: /img/logoITClub.png
+---
+
+## ¿Qué necesitamos?
+
+Necesitamos apoyo material, y nos dirigimos, para que nos lancen un cable, a las empresas del sector IT, empresas tecnológicas y a todas aquellas que piensen que lo que hacemos puede ser importante... Lo principal ahora mismo es adquirir material útil, porque es caro y de momento lo estamos sufragando de nuestro bolsillo, o con apoyo económico (muy pequeño) por parte de la <a href="https://ampa.marcosfrechin.es" target="_blank">AMPA del colegio</a>. 
+
+La idea es que nos podáis comprar alguno de los Kits que os dejamos en la lista al final del dossier, y lo donéis al club, nos parece lo más sencillo y efectivo, pero si tenéis alguna otra idea, somos todo orejas…
+Ah, y además si queréis participar u organizar algún taller en nuestro club, ya sea en el cole, o en vuestras instalaciones, estaremos encantados, seguro que a los niños les apetece ver una empresa como la vuestra “por dentro” y aprender de vosotros lo que se os ocurra.
+
+Creemos en este proyecto como una pequeña fábrica de detectar y promover talento que trabaje para vosotros en el futuro y por eso pensamos que puede resultar efectivo colaborar con nosotros un poquito. 
+Os damos las gracias por adelantado…
+
+Aquí podéis descargar el pequeño dossier del proyecto, y la lista de material para los talleres del club:
+
+<a href="/docs/sponsorship/CLUB de INFORMÁTICA Marcos Frechín - DOSSIER Patrocinio.pdf" target="_blank">CLUB de INFORMÁTICA Marcos Frechín - DOSSIER Patrocinio.pdf</a>
+
+## Patrocinadores del club
+
+Aquí mencionaremos a aquellas empresas o benefactores que ayuden al[Club de Informática Marcos Frechín](/) a seguir trabajando. De momento no tenemos ninguno, ¿te animas?
