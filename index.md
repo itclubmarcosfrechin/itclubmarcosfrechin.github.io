@@ -17,7 +17,7 @@ La actividad presencial del club tiene una periodicidad mensual, un sábado de c
 
 Aunque el club nace en nuestro cole, el CEIP Marcos Frechín de Zaragoza, **nuestros talleres están abiertos a niñas, niños, madres, padres, tutores y profesores de cualquier lugar desde el que puedan desplazarse hasta nuestras instalaciones. No es necesario que sean alumnos de nuestro cole, y estaremos encantados de recibirles y hacernos amigos, eso siempre es divertido**.
 
-Esta iniciativa surge desde varias madres y padres de niñas del cole, que formamos parte de la <a href="https://ampa.marcosfrechin.es" target="_blank">AMPA del colegio</a>:
+Esta iniciativa surge de tres madres y padres de niñas del cole, que formamos parte de la <a href="https://ampa.marcosfrechin.es" target="_blank">AMPA del colegio</a>, siendo este Club de Informática una más de sus actividades
 
 - **Beatriz** ha impartido clases de informática y robótica tanto regulares como extraescolares a niños de primaria, así como clases de apoyo para asignaturas de programación de distintas carreras universitarias. Ahora trabaja como técnica de soporte de software para empresas, y como reclutadora de personal técnico.
 - **Sergio** se dedica al desarrollo de software para empresas desde hace casi 20 años, y también ha dado clases de programación a distintos niveles.
