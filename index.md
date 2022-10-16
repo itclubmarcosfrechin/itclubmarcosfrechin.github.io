@@ -17,7 +17,7 @@ La actividad presencial del club tiene una periodicidad mensual, un sábado de c
 
 Aunque el club nace en nuestro cole, el CEIP Marcos Frechín de Zaragoza, **nuestros talleres están abiertos a niñas, niños, madres, padres, tutores y profesores de cualquier lugar desde el que puedan desplazarse hasta nuestras instalaciones. No es necesario que sean alumnos de nuestro cole, y estaremos encantados de recibirles y hacernos amigos, eso siempre es divertido**.
 
-Esta iniciativa surge desde varias madres y padres de niñas del cole, que formamos parte de la <a href="https://ampa.marcosfrechin.es" taget="_blank">AMPA del colegio</a>:
+Esta iniciativa surge desde varias madres y padres de niñas del cole, que formamos parte de la <a href="https://ampa.marcosfrechin.es" target="_blank">AMPA del colegio</a>:
 
 - **Beatriz** ha impartido clases de informática y robótica tanto regulares como extraescolares a niños de primaria, así como clases de apoyo para asignaturas de programación de distintas carreras universitarias. Ahora trabaja como técnica de soporte de software para empresas, y como reclutadora de personal técnico.
 - **Sergio** se dedica al desarrollo de software para empresas desde hace casi 20 años, y también ha dado clases de programación a distintos niveles.
@@ -33,7 +33,7 @@ Tenemos muy claros unos cuantos conceptos:
 
 - Sabemos que las empresas IT están teniendo muchas dificultades para captar, cultivar y retener talento en sus plantillas, y eso reduce la capacidad para gestionar y llevar a cabo proyectos.
 
-- También sabemos que aunque la informática se ha democratizado mucho en los últimos tiempos, siguen existiendo varios colectivos poco representados, que si trabajamos con ellos, podrían mejorar la situación del punto anterior, y con ello, esperamos dar más oportunidades laborales a las niñas y niños de estos colectivos.
+- También sabemos que aunque la informática se ha democratizado mucho en los últimos tiempos, siguen existiendo varios colectivos poco representados, que si trabajamos con ellos, podrían mejorar la situación del punto anterior, y con ello, esperamos humildemente dar alguna oportunidad laborales más a las niñas y niños que pasen por el club, o al menos ponerles en el camino, si les gusta la tecnología.
    - La presencia de la mujer es muy pequeña respecto al total de profesionales del sector, no es muy explicable, pero a estas alturas del siglo XXI todavía parece que la tecnología es sólo cosa de varones. Desde el club estamos haciendo un esfuerzo especial para acercarnos a las niñas e interesarlas en el mundo de la informática y la robótica.
    - La población con menor poder adquisitivo (aunque la economía está apretando a todos, con los tiempos que corren...), tiene más complicado el acceso a recursos de aprendizaje sobre estos temas a edades tempranas, los recursos y materiales son caros y complejos, todavía existe una brecha digital importante... Por ello realizamos los talleres del club de forma desinteresada, sólo pedimos 1 euro simbólico por niño/a y taller, que reinvertimos por completo en material y servicios.
 
