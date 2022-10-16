@@ -33,9 +33,9 @@ Tenemos muy claros unos cuantos conceptos:
 
 - Sabemos que las empresas IT están teniendo muchas dificultades para captar, cultivar y retener talento en sus plantillas, y eso reduce la capacidad para gestionar y llevar a cabo proyectos.
 
-- También sabemos que aunque la informática se ha democratizado mucho en los últimos tiempos, siguen existiendo varios colectivos poco representados, que si trabajamos con ellos, podrían mejorar la situación del punto anterior. 
+- También sabemos que aunque la informática se ha democratizado mucho en los últimos tiempos, siguen existiendo varios colectivos poco representados, que si trabajamos con ellos, podrían mejorar la situación del punto anterior, y con ello, esperamos dar más oportunidades laborales a las niñas y niños de estos colectivos.
    - La presencia de la mujer es muy pequeña respecto al total de profesionales del sector, no es muy explicable, pero a estas alturas del siglo XXI todavía parece que la tecnología es sólo cosa de varones. Desde el club estamos haciendo un esfuerzo especial para acercarnos a las niñas e interesarlas en el mundo de la informática y la robótica.
-   - Los colectivos con menor poder adquisitivo tienen más complicado el acceso a recursos de aprendizaje sobre estos temas a edades tempranas, los recursos y materiales son caros y complejos... Realizamos los talleres del club de forma desinteresada, sólo pedimos 1 euro simbólico por niño/a y taller, que reinvertimos por completo en material y servicios.
+   - La población con menor poder adquisitivo (aunque la economía está apretando a todos, con los tiempos que corren...), tiene más complicado el acceso a recursos de aprendizaje sobre estos temas a edades tempranas, los recursos y materiales son caros y complejos, todavía existe una brecha digital importante... Por ello realizamos los talleres del club de forma desinteresada, sólo pedimos 1 euro simbólico por niño/a y taller, que reinvertimos por completo en material y servicios.
 
 ## Si quieres, puedes seguirnos en redes sociales
 
