@@ -17,7 +17,7 @@ Os damos las gracias por adelantado…
 
 Aquí podéis descargar el pequeño dossier del proyecto, y la lista de material para los talleres del club:
 
-<a href="/docs/sponsorship/CLUB de INFORMÁTICA Marcos Frechín - DOSSIER Patrocinio.pdf" target="_blank">CLUB de INFORMÁTICA Marcos Frechín - DOSSIER Patrocinio.pdf</a>
+<a href="/docs/sponsorship/CLUB de INFORMÁTICA Marcos Frechín - DOSSIER Patrocinio.pdf" style="font-size: 2em" target="_blank">CLUB de INFORMÁTICA Marcos Frechín - DOSSIER Patrocinio.pdf</a>
 
 ## Patrocinadores del club
 
@@ -25,7 +25,7 @@ Aquí mencionaremos a aquellas empresas o benefactores que ayuden al [Club de In
 
 Envíanos un correo electrónico:
 
-<a href="mailto:itclub@marcosfrechin.es" title="email" style="font-size: 2em"><img src="/img/mail64.png" alt="email" /></a>
+<a href="mailto:itclub@marcosfrechin.es" title="email"><img src="/img/mail64.png" alt="email" /></a>
 
 o contacta con nosotros por redes sociales:
 
