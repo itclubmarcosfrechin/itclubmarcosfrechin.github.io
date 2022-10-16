@@ -11,21 +11,23 @@ image: /img/logoITClub.png
 
 Somos el **Club de Informática** del <a href="http://ceipmarcosfrechin.catedu.es/" taget="_blank">Colegio de Educación Infantil y Primaria "Marcos Frechín"</a> en Las Fuentes, *Zaragoza*.
 
-Nuestra idea es reunir a niños y niñas (y a los padres y madres, tutores y profesores que quieran acompañarlos) para realizar distintos proyectos relacionados con la informática, la robótica, y la electrónica básica, mediante dinámicas y tareas divertidas y didácticas, en el que puedan experimentar con sus propias manos y su propia mente los problemas que se resuelven mediante las tecnologías de la información y qué aplicaciones tienen en el mundo real.
+Nuestro objetivo es reunir a niñas y niños (y a los padres y madres, tutores y profesores que quieran acompañarlos) para realizar distintos proyectos relacionados con la informática, la robótica, y la electrónica básica, mediante dinámicas y tareas divertidas y didácticas, en el que puedan experimentar con sus propias manos y su propia mente los problemas que se resuelven mediante las tecnologías de la información y qué aplicaciones tienen en el mundo real.
 
-La actividad presencial del club tendrá una periodicidad mensual, un sábado de cada mes, y disponemos de distintos canales de comunicación asociados al club, como esta web y presencia en redes sociales, a través de los cuales mantener la comunicación con los interesados, y hacerles llegar la convocatoria a los talleres, material de estudio, práctica y preparación de las actividades presenciales. Aunque el club nace en nuestro cole, el CEIP Marcos Frechín de Zaragoza, **nuestros talleres están abiertos a niñas, niños, madres, padres, tutores y profesores de cualquier lugar desde el que puedan desplazarse hasta nuestras instalaciones. No es necesario que sean alumnos de nuestro cole, y estaremos encantados de recibirles y hacernos amigos, eso siempre es divertido**.
+La actividad presencial del club tiene una periodicidad mensual, un sábado de cada mes durante el curso, y disponemos de distintos canales de comunicación asociados al club, como nuestra web y presencia en redes sociales (Facebook, twitter), a través de los cuales mantener la comunicación con los interesados, y hacerles llegar la convocatoria a los talleres, material de estudio, práctica y preparación de las actividades presenciales. 
 
-Esta iniciativa surge desde varios madres y padres de niñas del cole, que formamos parte de la <a href="https://ampa.marcosfrechin.es" taget="_blank">AMPA del colegio</a>:
+Aunque el club nace en nuestro cole, el CEIP Marcos Frechín de Zaragoza, **nuestros talleres están abiertos a niñas, niños, madres, padres, tutores y profesores de cualquier lugar desde el que puedan desplazarse hasta nuestras instalaciones. No es necesario que sean alumnos de nuestro cole, y estaremos encantados de recibirles y hacernos amigos, eso siempre es divertido**.
+
+Esta iniciativa surge desde varias madres y padres de niñas del cole, que formamos parte de la <a href="https://ampa.marcosfrechin.es" taget="_blank">AMPA del colegio</a>:
 
 - **Beatriz** ha impartido clases de informática y robótica tanto regulares como extraescolares a niños de primaria, así como clases de apoyo para asignaturas de programación de distintas carreras universitarias. Ahora trabaja como técnica de soporte de software para empresas, y como reclutadora de personal técnico.
 - **Sergio** se dedica al desarrollo de software para empresas desde hace casi 20 años, y también ha dado clases de programación a distintos niveles.
 - **Daniel** es Ingeniero Electrónico y se dedica al diseño y desarrollo de sistemas de control de maquinaria.
 
-Nos gustaría aportar nuestra experiencia y conocimientos combinados para acercar las tecnologías de la información y la robótica a la educación de los niños y niñas, considerando que su inserción desde niveles iniciales proporciona conocimientos que permiten acceder a profesiones de futuro, en un sector en el que actualmente apenas existe paro y además promueve en ellos el pensamiento lógico y computacional, muy valorado en todas las etapas de su desarrollo.
+Nos gustaría aportar nuestra experiencia y conocimientos combinados para acercar las tecnologías de la información y la robótica a la educación de los peques de infantil y primaria, considerando que su inserción desde niveles iniciales proporciona conocimientos que permiten acceder a profesiones de futuro, en un sector con muchas oportunidades y además promueve en ellos el pensamiento lógico y computacional, muy valorado en todas las etapas de su desarrollo.
 
 ## ¿Y por qué hacemos esto?
 
-Tenemos muy claros unos cuantos principios:
+Tenemos muy claros unos cuantos conceptos:
 
 - El sector informático es uno de los que más oportunidades profesionales está ofreciendo, apenas existe paro en el mismo, y la demanda de profesionales es muy superior a la capacidad formativa para generar nuevos técnicos e ingenieros.
 
