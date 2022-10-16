@@ -48,4 +48,4 @@ Podrás mantenerte al tanto de los próximos talleres, eventos y publicaciones d
 
 Con tus preguntas, inquitudes, sugerencias, etc...
 
-<a href="mailto:itclub@marcosfrechin.es" title="email"><img src="img/mail64.png" alt="facebook" /></a>
+<a href="mailto:itclub@marcosfrechin.es" title="email"><img src="img/mail64.png" alt="email" /></a>

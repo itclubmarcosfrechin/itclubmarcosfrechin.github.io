@@ -22,3 +22,12 @@ Aquí podéis descargar el pequeño dossier del proyecto, y la lista de material
 ## Patrocinadores del club
 
 Aquí mencionaremos a aquellas empresas o benefactores que ayuden al[Club de Informática Marcos Frechín](/) a seguir trabajando. De momento no tenemos ninguno, ¿te animas?
+
+Envíanos un correo electrónico:
+
+<a href="mailto:itclub@marcosfrechin.es" title="email"><img src="img/mail64.png" alt="email" /></a>
+
+o contacta con nosotros por redes sociales:
+
+<a href="https://www.facebook.com/groups/itclubmarcosfrechin" title="facebook" target="_blank"><img src="img/facebook64.png" alt="facebook" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/itclubmfrechin" title="twitter" target="_blank"><img src="img/twitter64.png" alt="twitter" /></a>
