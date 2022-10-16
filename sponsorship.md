@@ -25,9 +25,9 @@ Aquí mencionaremos a aquellas empresas o benefactores que ayuden al [Club de In
 
 Envíanos un correo electrónico:
 
-<a href="mailto:itclub@marcosfrechin.es" title="email" style="font-size: 2em"><img src="img/mail64.png" alt="email" /></a>
+<a href="mailto:itclub@marcosfrechin.es" title="email" style="font-size: 2em"><img src="/img/mail64.png" alt="email" /></a>
 
 o contacta con nosotros por redes sociales:
 
-<a href="https://www.facebook.com/groups/itclubmarcosfrechin" title="facebook" target="_blank"><img src="img/facebook64.png" alt="facebook" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/itclubmfrechin" title="twitter" target="_blank"><img src="img/twitter64.png" alt="twitter" /></a>
+<a href="https://www.facebook.com/groups/itclubmarcosfrechin" title="facebook" target="_blank"><img src="/img/facebook64.png" alt="facebook" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/itclubmfrechin" title="twitter" target="_blank"><img src="/img/twitter64.png" alt="twitter" /></a>
