@@ -5,9 +5,19 @@ show_sidebar: true
 image: /img/logoITClub.png
 ---
 
+## Patrocinadores del club
+
+Estos son nuestros amigos, y nos están echando una mano:
+
+<div style="margin: 15px">
+    <a href="https://domesticaenergia.es" target="_blank">
+        <img src="/img/sponsorship/domestica.jpg" />
+    </a>
+</div>
+
 ## ¿Qué necesitamos?
 
-Necesitamos apoyo material, y nos dirigimos, para que nos lancen un cable, a las empresas del sector IT, empresas tecnológicas y a todas aquellas que piensen que lo que hacemos puede ser importante... Lo principal ahora mismo es adquirir material útil, porque es caro y de momento lo estamos sufragando de nuestro bolsillo, o con apoyo económico (muy pequeño) por parte de la <a href="https://ampa.marcosfrechin.es" target="_blank">AMPA del colegio</a>. 
+Principalmente necesitamos apoyo material, y nos dirigimos, para que nos lancen un cable, a las empresas del sector IT, empresas tecnológicas y a todas aquellas que piensen que lo que hacemos puede ser importante... Lo principal ahora mismo es adquirir material útil, porque es caro y de momento lo estamos sufragando de nuestro bolsillo, o con apoyo económico (muy pequeño) por parte de la <a href="https://ampa.marcosfrechin.es" target="_blank">AMPA del colegio</a>. 
 
 La idea es que nos podáis comprar alguno de los Kits que os dejamos en la lista al final del dossier, y lo donéis al club, nos parece lo más sencillo y efectivo, pero si tenéis alguna otra idea, somos todo orejas…
 Ah, y además si queréis participar u organizar algún taller en nuestro club, ya sea en el cole, o en vuestras instalaciones, estaremos encantados, seguro que a los niños les apetece ver una empresa como la vuestra “por dentro” y aprender de vosotros lo que se os ocurra.
@@ -19,11 +29,7 @@ Aquí podéis descargar el pequeño dossier del proyecto, y la lista de material
 
 <a href="/docs/sponsorship/CLUB de INFORMÁTICA Marcos Frechín - DOSSIER Patrocinio.pdf" style="font-size: 2em" target="_blank">DOSSIER Patrocinio</a>
 
-## Patrocinadores del club
-
-Aquí mencionaremos a aquellas empresas o benefactores que ayuden al [Club de Informática Marcos Frechín](/) a seguir trabajando. De momento no tenemos ninguno, ¿te animas?
-
-Envíanos un correo electrónico:
+Si quieres, y puedes ayudarnos, envíanos un correo electrónico:
 
 <a href="mailto:itclub@marcosfrechin.es" title="email"><img src="/img/mail64.png" alt="email" /></a>
 
