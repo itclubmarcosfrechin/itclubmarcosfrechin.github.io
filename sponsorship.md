@@ -11,7 +11,7 @@ Estos son nuestros amigos, y nos están echando una mano:
 
 <div style="margin: 15px">
     <a href="https://domesticaenergia.es" target="_blank">
-        <img src="/img/sponsorship/domestica.jpg" />
+        <img src="/img/sponsorship/domestica.jpg" alt="doméstica. Gas y electricidad."/>
     </a>
 </div>
 
