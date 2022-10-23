@@ -7,7 +7,7 @@ image: /img/logoITClub.png
 
 ## Patrocinadores del club
 
-Estos son nuestros amigos, y nos están echando una mano:
+Estos son nuestros amigos, y nos están echando una mano, ¡MUCHAS GRACIAS!:
 
 <div style="margin: 15px">
     <a href="https://domesticaenergia.es" target="_blank">
