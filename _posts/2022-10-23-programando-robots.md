@@ -11,7 +11,7 @@ published: true
 tags: stem stemeducation itclub robotics engineering
 ---
 
-¡¡Tenemos muchos juguetes nuevos!! Hemos conseguido <a href="https://itclub.marcosfrechin.es/sponsorship/" target="_blank">patrocinadores</a>, que nos han donado cosas increíbles: robots, placas Micro:bit, cajas de Lego Spike... Y aún están más por venir... Tenemos trabajo para todo el curso mientras descubrimos todo lo que se pueden hacer con ellos. Así que nos veremos el **sábado, 5 de noviembre de 2022, de 11:30h a 13:00h, en el CEIP Marcos Frechín, de Zaragoza**, y abriremos las cajas para explorar los primeros tutoriales y dar los primeros pasos.
+¡¡Tenemos muchos juguetes nuevos!! Hemos conseguido <a href="https://itclub.marcosfrechin.es/sponsorship/" target="_blank">patrocinadores</a>, que nos han donado cosas increíbles: robots, placas Micro:bit, cajas de Lego Spike... Y aún están más por venir... Tenemos trabajo para todo el curso mientras descubrimos todo lo que se pueden hacer con ellos. Así que nos veremos el **sábado, 5 de noviembre de 2022, de 11:30h a 13:00h, en el CEIP Marcos Frechín, de Zaragoza**, donde abriremos las cajas para explorar los primeros tutoriales y dar los primeros pasos en este mundo tan apasionante de la programación.
 
 ## Yo programo, tú programas
 
