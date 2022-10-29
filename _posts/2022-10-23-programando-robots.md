@@ -13,13 +13,13 @@ tags: stem stemeducation itclub robotics engineering
 
 ¡¡Tenemos muchos juguetes nuevos!! Hemos conseguido <a href="https://itclub.marcosfrechin.es/sponsorship/" target="_blank">patrocinadores</a>, que nos han donado cosas increíbles: robots, placas Micro:bit, cajas de Lego Spike... Y aún están más por venir... Tenemos trabajo para todo el curso mientras descubrimos todo lo que se pueden hacer con ellos. Así que nos veremos el **sábado, 12 de noviembre de 2022, de 11:30h a 13:00h, en el CEIP Marcos Frechín, de Zaragoza**, donde abriremos las cajas para explorar los primeros tutoriales y dar los primeros pasos en este mundo tan apasionante de la programación.
 
+> **¡IMPORTANTE! Papás y mamás, si queréis traer a vuestros hijos al taller, por favor, inscribidlos aquí:** <a href="https://forms.gle/PnGHa2k7icmgsVPj6" target="_blank">Formulario de inscripción</a>
+
 ## Aplazamiento
 
-¡¡ ATENCIÓN !! Originalmente, este taller se convocó para el sábado 5 de noviembre, pero tal y como se indica en el párrafo anterior, se ha aplazado al sábado 12 de noviembre de 2022. Ha surgido un compromiso ineludible e imprevisto entre los monitores del taller. Rogamos disculpéis las molestias ocasionadas.
+> ¡¡ ATENCIÓN !! Originalmente, este taller se convocó para el sábado 5 de noviembre, pero tal y como se indica en el párrafo anterior, se ha aplazado al sábado 12 de noviembre de 2022. Ha surgido un compromiso ineludible e imprevisto entre los monitores del taller. Rogamos disculpéis las molestias ocasionadas.
 
 ## Yo programo, tú programas
-
-> **¡IMPORTANTE! Papás y mamás, si queréis traer a vuestros hijos al taller, por favor, inscribidlos aquí:** <a href="https://forms.gle/PnGHa2k7icmgsVPj6" target="_blank">Formulario de inscripción</a>
 
 Vamos a montar Legos con sensores, motores y paneles de luces led, robots con ruedas (rovers) a los que les enseñaremos a esquivar obstáculos o a seguir líneas pintadas en el suelo... Y todo eso mediante la programación, con MakeCode, Scratch, etc... Fácil, fácil, divertido, y para toda la familia...
 
