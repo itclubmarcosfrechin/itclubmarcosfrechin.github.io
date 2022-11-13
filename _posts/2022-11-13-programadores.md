@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Programadores"
-subtitle: "Legos, micro:bits y otros robots loquísimos..."
+subtitle: "Un Club de mentes inquietas"
 description: "Hemos montado y programado robots, legos y sonrisas."
-image: /img/workshops/2211/robot.jpg
+image: /img/workshops/2211/001.jpg
 author: "Sergio Castillo"
 hero_image: /img/workshop.jpg
 show_sidebar: false
