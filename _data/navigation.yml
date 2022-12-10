@@ -7,3 +7,5 @@
   dropdown:
     - name: Scratch
       link: /docs/scratch/
+    - name: Lego Education
+      link: /docs/legoeducation/
