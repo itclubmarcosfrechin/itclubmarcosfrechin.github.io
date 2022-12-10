@@ -8,7 +8,7 @@ image: /img/logoITClub.png
 
 <div class="columns">
     <div class="column">
-        <img src="/img/legoeducationlogo.png" alt="LEGO® Education" />
+        <img src="/img/legoeducationlogo.jpg" alt="LEGO® Education" />
     </div>
 </div>
 
