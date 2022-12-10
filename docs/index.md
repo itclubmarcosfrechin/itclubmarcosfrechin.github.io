@@ -30,4 +30,3 @@ image: /img/logoITClub.png
         </a>
     </div>
 </div>
-</div>
