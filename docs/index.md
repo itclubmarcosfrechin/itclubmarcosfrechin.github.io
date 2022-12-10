@@ -19,14 +19,14 @@ image: /img/logoITClub.png
 <div class="columns">
     <div class="column">
         <a href="/docs/legoeducation/">
-            <img src="/img/legoeducationlogo.webp" />
+            <img src="/img/legoeducationlogo.png" />
         </a>
     </div>
 </div>
 <div class="columns">
     <div class="column">
-        <a href="/docs/legoeducation/">
-            <img src="/img/legoeducationlogo.webp" />
+        <a href="/docs/microbit/">
+            <img src="/img/microbit-educational-foundation-logo-vector.png" />
         </a>
     </div>
 </div>
