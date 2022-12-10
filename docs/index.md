@@ -15,9 +15,19 @@ image: /img/logoITClub.png
             <img src="/img/ScratchLogoCat.png" />
         </a>
     </div>
+</div>
+<div class="columns">
     <div class="column">
         <a href="/docs/legoeducation/">
             <img src="/img/legoeducationlogo.webp" />
         </a>
     </div>
+</div>
+<div class="columns">
+    <div class="column">
+        <a href="/docs/legoeducation/">
+            <img src="/img/legoeducationlogo.webp" />
+        </a>
+    </div>
+</div>
 </div>
