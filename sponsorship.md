@@ -9,16 +9,17 @@ image: /img/logoITClub.png
 
 Estos son nuestros amigos, y nos están echando una mano, ¡MUCHAS GRACIAS!:
 
-<div style="margin: 15px">
-    <a href="https://domesticaenergia.es" target="_blank">
-        <img src="/img/sponsorship/domestica.jpg" alt="Doméstica. Gas y electricidad."/>
-    </a>
-</div>
-
-<div style="margin: 15px">
-    <a href="https://www.grupo-pronet.com/" target="_blank">
-        <img src="/img/sponsorship/grupo-pronet.jpg" alt="Grupo Pronet"/>
-    </a>
+<div>
+    <div style="margin: 15px">
+        <a href="https://domesticaenergia.es; float: left;" target="_blank">
+            <img src="/img/sponsorship/domestica.jpg" alt="Doméstica. Gas y electricidad."/>
+        </a>
+    </div>
+    <div style="margin: 15px; float: right;">
+        <a href="https://www.grupo-pronet.com/" target="_blank">
+            <img src="/img/sponsorship/grupo-pronet.jpg" alt="Grupo Pronet"/>
+        </a>
+    </div>
 </div>
 
 ## ¿Qué necesitamos?
