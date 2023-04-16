@@ -3,7 +3,7 @@ layout: post
 title: "Programming skills"
 subtitle: "Vamos a aprender cositas básicas de programación, con mTiny Discover Kit y tarjetas Microbit"
 description: "Todo lo que conocemos sobre informática ha de ser programado... Video juegos, robótica, aplicaciones... Aprenderemos algunos rudimentos de la programación gracias a mTiny y a placas Microbit"
-image: /img/workshops/2211/robot.jpg
+image: /img/workshops/2304/mTiny_002.png
 author: "Sergio Castillo"
 hero_image: /img/workshop.jpg
 show_sidebar: false
@@ -11,7 +11,7 @@ published: true
 tags: stem stemeducation itclub robotics engineering
 ---
 
-Se nos había parado el reloj en el Club de Informática... No nos hemos visto desde diciembre... Os pedimos disculpas, algunos de los que estamos organizando todo esto hemos tenido unos meses un poco complicados, y no hemos podido preparar más talleres hasta ahora. Pero ya estamos aquí. Y queremos juntarnos para aprender un poquito las cosas básicas de la programación. La programación es lo que hace que los ordenadores nos permitan aprender, trabajar y hasta jugar con ellos (sí, los videojuegos también necesitan programación). Pero también se programan esos relojes tan chulos que hacen muchas cosas además de dar la hora, y los móviles, con todas esas aplicaciones que llevan, y las tablets, y hasta los coches, las naves espaciales, los drones... Cada uno de esos dispositivos, lleva uno o varios programas que los hacen funcionar. Nos veremos el día 29 de Abril en el CEIP Marcos Frechín y aprendemos a programar un poquito. ¡Ya veréis qué divertido!
+Se nos había parado el reloj en el Club de Informática... No nos hemos visto desde diciembre... Os pedimos disculpas, algunos de los que estamos organizando todo esto hemos tenido unos meses un poco complicados, y no hemos podido preparar más talleres hasta ahora. Pero ya estamos aquí. Y queremos juntarnos para aprender un poquito las cosas básicas de la programación. La programación es lo que hace que los ordenadores nos permitan aprender, trabajar y hasta jugar con ellos (sí, los videojuegos también necesitan programación). Pero también se programan esos relojes tan chulos que hacen muchas cosas además de dar la hora, y los móviles, con todas esas aplicaciones que llevan, y las tablets, y hasta los coches, las naves espaciales, los drones... Cada uno de esos dispositivos, lleva uno o varios programas que los hacen funcionar. **Nos veremos el día 29 de Abril en el CEIP Marcos Frechín y aprendemos a programar un poquito. ¡Ya veréis qué divertido!**
 
 > **¡IMPORTANTE! Papás y mamás, si queréis traer a vuestros hijos al taller, por favor, inscribidlos aquí:** <a href="https://forms.gle/aC83tbZTh8SxeHko9" target="_blank">Formulario de inscripción</a>
 
