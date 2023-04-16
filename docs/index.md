@@ -12,7 +12,21 @@ image: /img/logoITClub.png
 <div class="columns">
     <div class="column">
         <a href="/docs/scratch/">
-            <img src="/img/ScratchLogoCat.png" />
+            <img src="/img/ScratchLogoCat.png" alt="Scratch" />
+        </a>
+    </div>
+</div>
+<div class="columns">
+    <div class="column">
+        <a href="/docs/legoeducation/">
+            <img src="/img/legoeducationlogo.jpg" alt="LEGO Education" />
+        </a>
+    </div>
+</div>
+<div class="columns">
+    <div class="column">
+        <a href="/docs/microbit/">
+            <img src="/img/microbit-educational-foundation-logo-vector.png" alt="micro:bit" />
         </a>
     </div>
 </div>

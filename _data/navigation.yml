@@ -7,3 +7,7 @@
   dropdown:
     - name: Scratch
       link: /docs/scratch/
+    - name: LEGO® Education
+      link: /docs/legoeducation/
+    - name: micro:bit
+      link: /docs/microbit/
