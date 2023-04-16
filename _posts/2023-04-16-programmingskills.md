@@ -33,4 +33,3 @@ Como siempre, recaudaremos 1 euro simbólico por niño, que reinvertiremos por c
 **El acceso al taller tendrá lugar por la puerta principal del centro, en C/ Doctor Iranzo, s/n, 50013 Zaragoza.**. Os dejamos un croquis en el que está señalizado dicho acceso.
 
 ![Mapa acceso Marcos Frechín](/img/mapa_acceso.png)
-
