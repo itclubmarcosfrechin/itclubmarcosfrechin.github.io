@@ -20,7 +20,7 @@ Aunque el club nace en nuestro cole, el CEIP Marcos Frechín de Zaragoza, **nues
 Esta iniciativa surge de tres madres y padres de niñas del cole, que formamos parte de la <a href="https://ampa.marcosfrechin.es" target="_blank">AMPA del colegio</a>, siendo este Club de Informática una más de sus actividades. El equipo se ha ampliado posteriormente con un desarrollador de software de procedencia transatlántica
 
 - **Beatriz** ha impartido clases de informática y robótica tanto regulares como extraescolares a niños de primaria, así como clases de apoyo para asignaturas de programación de distintas carreras universitarias. Ahora trabaja como técnica de soporte de software para empresas, y como reclutadora de personal técnico.
-- **Sergio** se dedica al desarrollo de software para empresas desde hace casi 20 años, y también ha dado clases de programación a distintos niveles.
+- **Sergio** se dedica al desarrollo de software para empresas desde hace más de 20 años, y también ha dado clases de programación a distintos niveles.
 - **Daniel** es Ingeniero Electrónico y se dedica al diseño y desarrollo de sistemas de control de maquinaria.
 - **Jorge** es desarrollador de software, entusiasta por compartir conocimientos sobre robótica y programación.
 
